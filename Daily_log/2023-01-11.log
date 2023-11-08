@@ -1,0 +1,118 @@
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:44:25.067Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:44:25.071Z"}
+{"level":"info","message":{"msg":"mobileNo is not defined"},"service":"user-service","timestamp":"2023-01-11T06:44:25.303Z"}
+{"level":"info","message":"{\"msg\":\"mobileNo is not defined\"}","service":"user-service","timestamp":"2023-01-11T06:44:25.306Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:45:10.852Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:45:10.856Z"}
+{"level":"info","message":{"msg":"createHash is not a function"},"service":"user-service","timestamp":"2023-01-11T06:45:11.069Z"}
+{"level":"info","message":"{\"msg\":\"createHash is not a function\"}","service":"user-service","timestamp":"2023-01-11T06:45:11.071Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:45:46.786Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:45:46.792Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading '0')"},"service":"user-service","timestamp":"2023-01-11T06:45:48.326Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading '0')\"}","service":"user-service","timestamp":"2023-01-11T06:45:48.328Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:48:31.507Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:48:31.513Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading '0')"},"service":"user-service","timestamp":"2023-01-11T06:48:32.501Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading '0')\"}","service":"user-service","timestamp":"2023-01-11T06:48:32.504Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:52:15.349Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:52:15.354Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading '0')"},"service":"user-service","timestamp":"2023-01-11T06:52:16.531Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading '0')\"}","service":"user-service","timestamp":"2023-01-11T06:52:16.533Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:53:26.375Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:53:26.379Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading '0')"},"service":"user-service","timestamp":"2023-01-11T06:53:27.547Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading '0')\"}","service":"user-service","timestamp":"2023-01-11T06:53:27.549Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T06:55:27.964Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T06:55:27.969Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T06:55:29.110Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T06:55:29.112Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:00:21.031Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:00:21.031Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:00:22.041Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:00:22.041Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:00:25.174Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:00:25.175Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:00:26.040Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:00:26.041Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:10:25.375Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:10:25.377Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:10:26.463Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:10:26.463Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:11:49.233Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:11:49.237Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:11:50.144Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:11:50.145Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:13:57.970Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:13:57.972Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:13:59.005Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:13:59.007Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:16:10.179Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:16:10.186Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:17:11.380Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:17:11.382Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:17:12.479Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:17:12.480Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:23:41.601Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:23:41.605Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:23:42.735Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:23:42.736Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:24:58.097Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:24:58.101Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:24:59.068Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:24:59.069Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T07:37:04.640Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T07:37:04.641Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T07:37:05.812Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T07:37:05.812Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:42:42.980Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:42:42.986Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:42:44.313Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:42:44.315Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:49:07.080Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:49:07.084Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:49:08.519Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:49:08.522Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:50:28.272Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:50:28.276Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:50:29.409Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:50:29.410Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:54:35.363Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:54:35.364Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:54:36.798Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:54:36.800Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:56:07.956Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:56:07.960Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:56:17.143Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:56:17.144Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:56:49.736Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:56:49.742Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:56:51.052Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:56:51.055Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:57:30.708Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:57:30.712Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T09:57:33.865Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T09:57:33.868Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T09:59:59.597Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T09:59:59.603Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T10:02:59.806Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T10:02:59.808Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T12:40:54.069Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T12:40:54.070Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T12:40:55.646Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T12:40:55.647Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T12:43:26.273Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T12:43:26.275Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T12:43:27.799Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T12:43:27.799Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T12:44:02.087Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T12:44:02.089Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T12:44:03.116Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T12:44:03.117Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T12:44:55.809Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T12:44:55.812Z"}
+{"level":"info","message":{"msg":"Request is not recognized"},"service":"user-service","timestamp":"2023-01-11T12:44:58.605Z"}
+{"level":"info","message":"{\"msg\":\"Request is not recognized\"}","service":"user-service","timestamp":"2023-01-11T12:44:58.605Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-11T12:47:11.135Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-11T12:47:11.136Z"}
+{"level":"info","message":{"msg":"Successful"},"service":"user-service","timestamp":"2023-01-11T12:47:14.990Z"}
+{"level":"info","message":"{\"msg\":\"Successful\"}","service":"user-service","timestamp":"2023-01-11T12:47:14.993Z"}

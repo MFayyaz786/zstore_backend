@@ -1,0 +1,361 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:41:33.204Z"}
+{"level":"info","message":"/api/v1/courier/swyft/createOrder","service":"user-service","timestamp":"2023-04-04T06:41:39.380Z"}
+{"level":"info","message":{"description":"normal","orderId":"63a94de6ce0b320edc1f2446","originCityCode":"LHE","packing":"Flyer","weight":0.5},"service":"user-service","timestamp":"2023-04-04T06:41:39.380Z"}
+{"level":"info","message":{"data":[{"amount":0,"consigneeAddress":"Islamabad","consigneeCity":"Rawalpindi","consigneeEmail":"","consigneeName":"fayyaz danish ","consigneePhone":"03074149786","deliveryMode":"","description":"normal","isAllowToOpenParcel":false,"label":"","orderId":"63a94de6ce0b320edc1f2446","parcelId":"RWP741647879204","paymentMode":"NONCOD","pickupLocation":"PL-756628","pickupLocationAddress":"House no141 Near Bilal Shahed Chowk Chaklala 3, Rawalpindi","pickupLocationCity":"Rawalpindi","qty":1,"serviceType":"","shipperCity":"Rawalpindi","shipperName":"Needs-Store","specialHandlings":"","subCity":"Islamabad","weight":0.5}]},"service":"user-service","timestamp":"2023-04-04T06:41:40.903Z"}
+{"level":"info","message":"{\"data\":[{\"consigneeName\":\"fayyaz danish \",\"consigneeEmail\":\"\",\"consigneePhone\":\"03074149786\",\"consigneeAddress\":\"Islamabad\",\"consigneeCity\":\"Rawalpindi\",\"pickupLocationAddress\":\"House no141 Near Bilal Shahed Chowk Chaklala 3, Rawalpindi\",\"pickupLocation\":\"PL-756628\",\"pickupLocationCity\":\"Rawalpindi\",\"parcelId\":\"RWP741647879204\",\"qty\":1,\"weight\":0.5,\"specialHandlings\":\"\",\"description\":\"normal\",\"orderId\":\"63a94de6ce0b320edc1f2446\",\"shipperName\":\"Needs-Store\",\"shipperCity\":\"Rawalpindi\",\"paymentMode\":\"NONCOD\",\"amount\":0,\"label\":\"\",\"serviceType\":\"\",\"deliveryMode\":\"\",\"isAllowToOpenParcel\":false,\"subCity\":\"Islamabad\"}]}","service":"user-service","timestamp":"2023-04-04T06:41:40.903Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:42:01.755Z"}
+{"level":"info","message":"/api/v1/courier/postEx/createOrder","service":"user-service","timestamp":"2023-04-04T06:42:06.917Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","originCityCode":"001"},"service":"user-service","timestamp":"2023-04-04T06:42:06.918Z"}
+{"level":"info","message":{"dist":{"orderDate":"2023-04-04 11:42:04.0","orderStatus":"UnBooked","trackingNumber":"20000680006917"},"statusCode":"200","statusMessage":"ORDER HAS BEEN CREATED"},"service":"user-service","timestamp":"2023-04-04T06:42:08.422Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CREATED\",\"dist\":{\"trackingNumber\":\"20000680006917\",\"orderStatus\":\"UnBooked\",\"orderDate\":\"2023-04-04 11:42:04.0\"}}","service":"user-service","timestamp":"2023-04-04T06:42:08.424Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:42:28.048Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:43:32.554Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:44:36.813Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:44:57.892Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:49:53.154Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:50:14.371Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:55:06.943Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T06:58:25.155Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:00:28.847Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:00:37.939Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:00:48.014Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:00:58.560Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:23:34.822Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:25:23.554Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:27:31.133Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:29:19.552Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:29:28.917Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:29:37.740Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:29:51.802Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:30:10.725Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:30:24.533Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:32:10.772Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:32:54.781Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:34:18.073Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:34:59.302Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:35:16.620Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:36:57.467Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:37:09.239Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:37:19.442Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:38:00.798Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:38:37.762Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:39:26.873Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:39:58.189Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:55:03.244Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:55:29.299Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:55:51.474Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:56:40.159Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:57:19.457Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T07:58:25.054Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:00:43.677Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:01:55.542Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:02:10.690Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:03:44.032Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:48:10.676Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:52:48.516Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T08:53:11.722Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T08:58:19.839Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"92534","packing":"","parcelId":"","weight":0.5},"service":"user-service","timestamp":"2023-04-04T08:58:19.839Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T08:58:19.840Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T08:58:19.841Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T08:58:43.327Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"92534","packing":"","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T08:58:43.328Z"}
+{"level":"info","message":{"msg":"You can't proceed this order with given instruction"},"service":"user-service","timestamp":"2023-04-04T08:58:43.722Z"}
+{"level":"info","message":"{\"msg\":\"You can't proceed this order with given instruction\"}","service":"user-service","timestamp":"2023-04-04T08:58:43.723Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:00:12.106Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:00:12.106Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:00:12.106Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:00:12.107Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:00:26.627Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:00:26.628Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:00:26.629Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:00:26.629Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:01:51.001Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:02:03.920Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:02:07.750Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:02:07.750Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:02:07.753Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:02:07.755Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:02:58.959Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:02:58.960Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:02:58.962Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:02:58.963Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:04:34.270Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:04:34.270Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:04:34.271Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:04:34.272Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:05:22.772Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:05:26.204Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:05:26.205Z"}
+{"level":"info","message":{"msg":"Fields Missing"},"service":"user-service","timestamp":"2023-04-04T09:05:26.220Z"}
+{"level":"info","message":"{\"msg\":\"Fields Missing\"}","service":"user-service","timestamp":"2023-04-04T09:05:26.224Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:08:15.180Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:08:18.644Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:08:18.644Z"}
+{"level":"info","message":{"msg":"You can't proceed this order with given instruction"},"service":"user-service","timestamp":"2023-04-04T09:08:19.205Z"}
+{"level":"info","message":"{\"msg\":\"You can't proceed this order with given instruction\"}","service":"user-service","timestamp":"2023-04-04T09:08:19.207Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:09:17.190Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:11:26.618Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:11:47.247Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:11:47.247Z"}
+{"level":"info","message":{"msg":"You can't proceed this order with given instruction"},"service":"user-service","timestamp":"2023-04-04T09:11:47.572Z"}
+{"level":"info","message":"{\"msg\":\"You can't proceed this order with given instruction\"}","service":"user-service","timestamp":"2023-04-04T09:11:47.574Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:12:29.187Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:14:52.080Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:15:34.162Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:15:37.706Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:15:37.706Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-04-04T09:15:39.558Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-04-04T09:15:39.561Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:16:09.555Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:16:29.684Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:16:33.190Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:16:33.190Z"}
+{"level":"info","message":{"msg":"You can't proceed this order with given instruction"},"service":"user-service","timestamp":"2023-04-04T09:16:33.512Z"}
+{"level":"info","message":"{\"msg\":\"You can't proceed this order with given instruction\"}","service":"user-service","timestamp":"2023-04-04T09:16:33.514Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:18:12.434Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:18:16.774Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:18:16.775Z"}
+{"level":"info","message":{"msg":"ReferenceError: mongoose is not defined"},"service":"user-service","timestamp":"2023-04-04T09:18:18.691Z"}
+{"level":"info","message":"{\"msg\":\"ReferenceError: mongoose is not defined\"}","service":"user-service","timestamp":"2023-04-04T09:18:18.693Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:19:37.748Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:20:20.030Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:20:39.686Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:20:39.686Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:20:43.123Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:20:43.125Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:22:37.361Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:23:33.931Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:23:47.957Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:23:47.958Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:23:51.127Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:23:51.128Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:24:23.483Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:24:50.849Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:24:50.851Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:24:54.121Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:24:54.122Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:25:29.730Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:25:29.731Z"}
+{"level":"info","message":{"msg":"You can't proceed this order with given instruction"},"service":"user-service","timestamp":"2023-04-04T09:25:30.067Z"}
+{"level":"info","message":"{\"msg\":\"You can't proceed this order with given instruction\"}","service":"user-service","timestamp":"2023-04-04T09:25:30.069Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:25:51.796Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:25:51.797Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:25:54.394Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:25:54.395Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:26:32.887Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:26:46.529Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:26:46.530Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:26:48.909Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:26:48.910Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:27:39.792Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:28:04.308Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:28:04.309Z"}
+{"level":"info","message":{"msg":"TypeError: Cannot read properties of undefined (reading 'parcelId')"},"service":"user-service","timestamp":"2023-04-04T09:28:05.677Z"}
+{"level":"info","message":"{\"msg\":\"TypeError: Cannot read properties of undefined (reading 'parcelId')\"}","service":"user-service","timestamp":"2023-04-04T09:28:05.679Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:28:30.428Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:29:12.903Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:29:25.839Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:29:25.839Z"}
+{"level":"info","message":{"msg":"TypeError: Cannot read properties of undefined (reading 'parcelId')"},"service":"user-service","timestamp":"2023-04-04T09:29:26.971Z"}
+{"level":"info","message":"{\"msg\":\"TypeError: Cannot read properties of undefined (reading 'parcelId')\"}","service":"user-service","timestamp":"2023-04-04T09:29:26.974Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:29:50.181Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:29:53.954Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:29:53.954Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:29:56.108Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:29:56.112Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:30:40.406Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"098e09w8r09","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:30:40.407Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-04-04T09:30:41.464Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-04-04T09:30:41.466Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:31:43.756Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP975225547300","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:31:43.757Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-04-04T09:31:44.714Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-04-04T09:31:44.715Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:32:31.163Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:32:56.547Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP975225547300","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:32:56.547Z"}
+{"level":"info","message":{"msg":"AxiosError: Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:32:57.738Z"}
+{"level":"info","message":"{\"msg\":\"AxiosError: Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:32:57.740Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:34:38.460Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:34:41.734Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP975225547300","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:34:41.735Z"}
+{"level":"info","message":{"msg":"AxiosError: Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:34:42.791Z"}
+{"level":"info","message":"{\"msg\":\"AxiosError: Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:34:42.795Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:37:28.577Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:37:28.578Z"}
+{"level":"info","message":[{"date":"2023-04-04T09:29:51.413Z","status":"Awaiting Pickup"},{"date":"2023-04-04T09:31:41.090Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T09:37:29.260Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T09:29:51.413Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T09:31:41.090Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T09:37:29.262Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:37:59.020Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:37:59.020Z"}
+{"level":"info","message":[{"date":"2023-04-04T09:29:51.413Z","status":"Awaiting Pickup"},{"date":"2023-04-04T09:31:41.090Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T09:37:59.604Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T09:29:51.413Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T09:31:41.090Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T09:37:59.605Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:39:00.846Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP975225547300","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:39:00.846Z"}
+{"level":"info","message":{"msg":"AxiosError: Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:39:01.581Z"}
+{"level":"info","message":"{\"msg\":\"AxiosError: Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:39:01.583Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:40:40.902Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:40:40.902Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:40:41.687Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:40:41.688Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:41:52.344Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:41:52.345Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:41:52.883Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:41:52.884Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:43:23.887Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:43:27.518Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:43:27.518Z"}
+{"level":"info","message":{"msg":"Request failed with status code 404"},"service":"user-service","timestamp":"2023-04-04T09:43:28.274Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 404\"}","service":"user-service","timestamp":"2023-04-04T09:43:28.276Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:44:01.416Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:44:13.371Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:44:17.067Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:44:17.068Z"}
+{"level":"info","message":{"msg":"Request failed with status code 403"},"service":"user-service","timestamp":"2023-04-04T09:44:17.829Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 403\"}","service":"user-service","timestamp":"2023-04-04T09:44:17.831Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:45:16.505Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:45:24.339Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP975225547300","service":"user-service","timestamp":"2023-04-04T09:45:28.158Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:45:28.159Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-04T09:45:28.863Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-04T09:45:28.865Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:47:42.545Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP975225547300","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:47:42.545Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:47:45.657Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:47:45.659Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP446631135916","service":"user-service","timestamp":"2023-04-04T09:48:10.072Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T09:48:10.072Z"}
+{"level":"info","message":[{"date":"2023-04-04T09:47:40.155Z","status":"Awaiting Pickup"}],"service":"user-service","timestamp":"2023-04-04T09:48:11.198Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T09:47:40.155Z\",\"status\":\"Awaiting Pickup\"}]","service":"user-service","timestamp":"2023-04-04T09:48:11.199Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:48:38.148Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP446631135916","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:48:38.148Z"}
+{"level":"info","message":{"msg":"CastError: Cast to ObjectId failed for value \"{\n  _id: {\n    zindigiWallet: { zindigiWalletNumber: null, title: null, linked: false },\n    token: null,\n    _id: new ObjectId(\"63a2b0b8153cfe5f98a05aff\"),\n    firstName: 'fayyaz',\n    lastName: 'danish',\n    email: 'mfayyazkaror@gmail.com',\n    password: '$2b$10$ygahXXqe5JEWusKduSHvLueMQEPDBarnu6nr37V7LMbZanj7Ogmeu',\n    cnic: '3220227861807',\n    contact: '03074149786',\n    address: 'appinsnap',\n    gender: 'male',\n    image: 'images/profile.png',\n    isVarified: true,\n    points: 5750,\n    membershipCategory: 'Gold',\n    fcmToken: null,\n    createdAt: 2022-12-21T07:07:36.109Z,\n    updatedAt: 2023-04-04T09:47:45.278Z,\n    __v: 0\n  }\n}\" (type Object) at path \"_id\" for model \"Customer\""},"service":"user-service","timestamp":"2023-04-04T09:48:39.233Z"}
+{"level":"info","message":"{\"msg\":\"CastError: Cast to ObjectId failed for value \\\"{\\n  _id: {\\n    zindigiWallet: { zindigiWalletNumber: null, title: null, linked: false },\\n    token: null,\\n    _id: new ObjectId(\\\"63a2b0b8153cfe5f98a05aff\\\"),\\n    firstName: 'fayyaz',\\n    lastName: 'danish',\\n    email: 'mfayyazkaror@gmail.com',\\n    password: '$2b$10$ygahXXqe5JEWusKduSHvLueMQEPDBarnu6nr37V7LMbZanj7Ogmeu',\\n    cnic: '3220227861807',\\n    contact: '03074149786',\\n    address: 'appinsnap',\\n    gender: 'male',\\n    image: 'images/profile.png',\\n    isVarified: true,\\n    points: 5750,\\n    membershipCategory: 'Gold',\\n    fcmToken: null,\\n    createdAt: 2022-12-21T07:07:36.109Z,\\n    updatedAt: 2023-04-04T09:47:45.278Z,\\n    __v: 0\\n  }\\n}\\\" (type Object) at path \\\"_id\\\" for model \\\"Customer\\\"\"}","service":"user-service","timestamp":"2023-04-04T09:48:39.234Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:50:44.900Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:51:23.044Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP446631135916","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:51:23.044Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:51:25.726Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:51:25.727Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:52:29.272Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-04T09:52:34.530Z"}
+{"level":"info","message":{"courierType":"SWYFT","description":"normal","orderId":"63a94de6ce0b320edc1f2446","orderStatusType":"Canceled","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-04T09:52:34.530Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-04T09:52:40.425Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-04T09:52:40.427Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T09:53:26.836Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:00:15.228Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:00:25.326Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:01:05.210Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:08:16.118Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:09:02.401Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:13:06.405Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:15:04.596Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:16:37.588Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:27:44.451Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:29:46.949Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:29:54.707Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:30:05.065Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:30:11.676Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:30:16.893Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:30:35.056Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:32:54.832Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:33:14.177Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T10:33:29.246Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:29:48.512Z"}
+{"level":"info","message":"/api/v1/courier/postEx/createOrder","service":"user-service","timestamp":"2023-04-04T14:30:24.640Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","originCityCode":"001"},"service":"user-service","timestamp":"2023-04-04T14:30:24.640Z"}
+{"level":"info","message":{"dist":{"orderDate":"2023-04-04 19:30:22.0","orderStatus":"UnBooked","trackingNumber":"20000680006926"},"statusCode":"200","statusMessage":"ORDER HAS BEEN CREATED"},"service":"user-service","timestamp":"2023-04-04T14:30:26.449Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CREATED\",\"dist\":{\"trackingNumber\":\"20000680006926\",\"orderStatus\":\"UnBooked\",\"orderDate\":\"2023-04-04 19:30:22.0\"}}","service":"user-service","timestamp":"2023-04-04T14:30:26.450Z"}
+{"level":"info","message":"/api/v1/courier/postEx/cancelOrder?parcelId=20000680006926","service":"user-service","timestamp":"2023-04-04T14:30:59.867Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:30:59.868Z"}
+{"level":"info","message":{"statusCode":"200","statusMessage":"ORDER HAS BEEN CANCELLED SUCCESSFULLY"},"service":"user-service","timestamp":"2023-04-04T14:31:01.010Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CANCELLED SUCCESSFULLY\"}","service":"user-service","timestamp":"2023-04-04T14:31:01.011Z"}
+{"level":"info","message":"/api/v1/courier/postEx/orderTrack?parcelId=20000680006926","service":"user-service","timestamp":"2023-04-04T14:31:19.423Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:31:19.423Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T14:31:20.185Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T14:31:20.186Z"}
+{"level":"info","message":"/api/v1/courier/swyft/createOrder","service":"user-service","timestamp":"2023-04-04T14:32:17.502Z"}
+{"level":"info","message":{"description":"normal","orderId":"63a94de6ce0b320edc1f2446","originCityCode":"LHE","packing":"Flyer","weight":0.5},"service":"user-service","timestamp":"2023-04-04T14:32:17.503Z"}
+{"level":"info","message":{"data":[{"amount":0,"consigneeAddress":"Islamabad","consigneeCity":"Rawalpindi","consigneeEmail":"","consigneeName":"fayyaz danish ","consigneePhone":"03074149786","deliveryMode":"","description":"normal","isAllowToOpenParcel":false,"label":"","orderId":"63a94de6ce0b320edc1f2446","parcelId":"RWP016953285623","paymentMode":"NONCOD","pickupLocation":"PL-756628","pickupLocationAddress":"House no141 Near Bilal Shahed Chowk Chaklala 3, Rawalpindi","pickupLocationCity":"Rawalpindi","qty":1,"serviceType":"","shipperCity":"Rawalpindi","shipperName":"Needs-Store","specialHandlings":"","subCity":"Islamabad","weight":0.5}]},"service":"user-service","timestamp":"2023-04-04T14:32:20.079Z"}
+{"level":"info","message":"{\"data\":[{\"consigneeName\":\"fayyaz danish \",\"consigneeEmail\":\"\",\"consigneePhone\":\"03074149786\",\"consigneeAddress\":\"Islamabad\",\"consigneeCity\":\"Rawalpindi\",\"pickupLocationAddress\":\"House no141 Near Bilal Shahed Chowk Chaklala 3, Rawalpindi\",\"pickupLocation\":\"PL-756628\",\"pickupLocationCity\":\"Rawalpindi\",\"parcelId\":\"RWP016953285623\",\"qty\":1,\"weight\":0.5,\"specialHandlings\":\"\",\"description\":\"normal\",\"orderId\":\"63a94de6ce0b320edc1f2446\",\"shipperName\":\"Needs-Store\",\"shipperCity\":\"Rawalpindi\",\"paymentMode\":\"NONCOD\",\"amount\":0,\"label\":\"\",\"serviceType\":\"\",\"deliveryMode\":\"\",\"isAllowToOpenParcel\":false,\"subCity\":\"Islamabad\"}]}","service":"user-service","timestamp":"2023-04-04T14:32:20.080Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP016953285623","service":"user-service","timestamp":"2023-04-04T14:33:15.512Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:33:15.512Z"}
+{"level":"info","message":[{"date":"2023-04-04T14:32:15.713Z","status":"Awaiting Pickup"}],"service":"user-service","timestamp":"2023-04-04T14:33:16.462Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T14:32:15.713Z\",\"status\":\"Awaiting Pickup\"}]","service":"user-service","timestamp":"2023-04-04T14:33:16.463Z"}
+{"level":"info","message":"/api/v1/courier/swyft/cancelOrder?parcelId=RWP016953285623","service":"user-service","timestamp":"2023-04-04T14:33:36.653Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:33:36.653Z"}
+{"level":"info","message":"Success","service":"user-service","timestamp":"2023-04-04T14:33:37.087Z"}
+{"level":"info","message":"{\"message\":\"Success\",\"level\":\"info\",\"service\":\"user-service\",\"timestamp\":\"2023-04-04T14:33:37.087Z\"}","service":"user-service","timestamp":"2023-04-04T14:33:37.088Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP016953285623","service":"user-service","timestamp":"2023-04-04T14:33:48.121Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:33:48.121Z"}
+{"level":"info","message":[{"date":"2023-04-04T14:32:15.713Z","status":"Awaiting Pickup"},{"date":"2023-04-04T14:33:33.408Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T14:33:49.366Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T14:32:15.713Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T14:33:33.408Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T14:33:49.366Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP016953285622","service":"user-service","timestamp":"2023-04-04T14:36:33.351Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:36:33.351Z"}
+{"level":"info","message":{"msg":"Request failed with status code 404"},"service":"user-service","timestamp":"2023-04-04T14:36:34.501Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 404\"}","service":"user-service","timestamp":"2023-04-04T14:36:34.501Z"}
+{"level":"info","message":"/api/v1/courier/swyft/orderTrack?parcelId=RWP016953285623","service":"user-service","timestamp":"2023-04-04T14:36:40.143Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T14:36:40.143Z"}
+{"level":"info","message":[{"date":"2023-04-04T14:32:15.713Z","status":"Awaiting Pickup"},{"date":"2023-04-04T14:33:33.408Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T14:36:40.543Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T14:32:15.713Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T14:33:33.408Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T14:36:40.544Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:41:41.909Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:42:19.561Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:42:54.929Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:44:58.724Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:45:13.227Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:45:36.867Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:51:52.831Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:52:08.600Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:55:38.941Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:56:48.967Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T14:58:38.488Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:00:04.867Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:00:26.607Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:00:34.701Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:00:41.803Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:03:46.668Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:03:46.669Z"}
+{"level":"info","message":{"msg":"Order not delivered"},"service":"user-service","timestamp":"2023-04-04T15:03:46.801Z"}
+{"level":"info","message":"{\"msg\":\"Order not delivered\"}","service":"user-service","timestamp":"2023-04-04T15:03:46.802Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:05:12.564Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:05:12.565Z"}
+{"level":"info","message":{"msg":"Request failed with status code 404"},"service":"user-service","timestamp":"2023-04-04T15:05:13.598Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 404\"}","service":"user-service","timestamp":"2023-04-04T15:05:13.599Z"}
+{"level":"info","message":"/api/v1/courier/postEx/orderTrack?parcelId=20000680006926","service":"user-service","timestamp":"2023-04-04T15:06:22.031Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:06:22.031Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T15:06:22.829Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T15:06:22.830Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:06:28.297Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:06:28.298Z"}
+{"level":"info","service":"user-service","timestamp":"2023-04-04T15:06:29.414Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:06:49.811Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:06:53.543Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:06:53.543Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T15:06:54.460Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T15:06:54.461Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:09:26.807Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:09:33.844Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:09:39.942Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:09:39.943Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T15:09:40.906Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T15:09:40.907Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:10:26.077Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:10:26.078Z"}
+{"level":"info","message":[{"date":"2023-04-04T14:32:15.713Z","status":"Awaiting Pickup"},{"date":"2023-04-04T14:33:33.408Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T15:10:26.808Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T14:32:15.713Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T14:33:33.408Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T15:10:26.810Z"}
+{"level":"info","message":"/api/v1/courier/postEx/orderTrack?parcelId=20000680006926","service":"user-service","timestamp":"2023-04-04T15:11:19.284Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:11:19.284Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T15:11:19.990Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T15:11:19.990Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:11:23.295Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:11:23.296Z"}
+{"level":"info","message":{"dist":{"balancePayment":0,"cityName":"Islamabad","customerName":"fayyaz danish","customerPhone":"03074149786","deliveryAddress":"mfayyazkaror@gmail.com","invoiceDivision":1,"invoicePayment":600,"items":1,"merchantName":"Needs Store","orderRefNumber":"63a94de6ce0b320edc1f2446","pickupAddress":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","reservePayment":0,"reversalFee":0,"reversalTax":0,"trackingNumber":"20000680006926","transactionDate":"2023-04-04","transactionFee":0,"transactionStatus":"Un-Assigned By Me","transactionStatusHistory":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"transactionTax":0,"upfrontPayment":0},"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-04T15:11:24.318Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":{\"customerName\":\"fayyaz danish\",\"customerPhone\":\"03074149786\",\"deliveryAddress\":\"mfayyazkaror@gmail.com\",\"invoicePayment\":600,\"orderRefNumber\":\"63a94de6ce0b320edc1f2446\",\"transactionTax\":0,\"transactionFee\":0,\"trackingNumber\":\"20000680006926\",\"transactionDate\":\"2023-04-04\",\"upfrontPayment\":0,\"merchantName\":\"Needs Store\",\"transactionStatus\":\"Un-Assigned By Me\",\"reversalTax\":0,\"reversalFee\":0,\"cityName\":\"Islamabad\",\"pickupAddress\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"reservePayment\":0,\"balancePayment\":0,\"transactionStatusHistory\":[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}],\"items\":1,\"invoiceDivision\":1}}","service":"user-service","timestamp":"2023-04-04T15:11:24.318Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-04T15:12:03.604Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:12:07.058Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:12:07.058Z"}
+{"level":"info","message":[{"transactionStatusMessage":"At Needs Store Warehouse","transactionStatusMessageCode":"0001","updatedAt":"2023-04-04T19:30:22.000+0500"},{"transactionStatusMessage":"Booking Cancelled by Merchant ","transactionStatusMessageCode":"0002","updatedAt":"2023-04-04T19:30:57.000+0500"}],"service":"user-service","timestamp":"2023-04-04T15:12:07.933Z"}
+{"level":"info","message":"[{\"transactionStatusMessage\":\"At Needs Store Warehouse\",\"transactionStatusMessageCode\":\"0001\",\"updatedAt\":\"2023-04-04T19:30:22.000+0500\"},{\"transactionStatusMessage\":\"Booking Cancelled by Merchant \",\"transactionStatusMessageCode\":\"0002\",\"updatedAt\":\"2023-04-04T19:30:57.000+0500\"}]","service":"user-service","timestamp":"2023-04-04T15:12:07.934Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?orderId=63a94de6ce0b320edc1f2446","service":"user-service","timestamp":"2023-04-04T15:13:50.824Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-04T15:13:50.824Z"}
+{"level":"info","message":[{"date":"2023-04-04T14:32:15.713Z","status":"Awaiting Pickup"},{"date":"2023-04-04T14:33:33.408Z","status":"Cancelled by Vendor"}],"service":"user-service","timestamp":"2023-04-04T15:13:51.346Z"}
+{"level":"info","message":"[{\"date\":\"2023-04-04T14:32:15.713Z\",\"status\":\"Awaiting Pickup\"},{\"date\":\"2023-04-04T14:33:33.408Z\",\"status\":\"Cancelled by Vendor\"}]","service":"user-service","timestamp":"2023-04-04T15:13:51.347Z"}

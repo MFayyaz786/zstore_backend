@@ -1,0 +1,49 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:00:53.537Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:01:59.189Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:02:22.078Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:02:41.407Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:02:58.504Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:03:17.269Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:03:24.918Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:03:44.168Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:04:11.844Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:04:17.209Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:04:49.929Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:05:00.007Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:06:41.887Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-22T11:06:53.639Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T11:06:53.639Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T11:06:54.946Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T11:06:54.947Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationCities=null","service":"user-service","timestamp":"2023-03-22T11:07:18.519Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T11:07:18.520Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T11:07:19.524Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T11:07:19.524Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:08:06.241Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:08:27.975Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T11:09:09.401Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T12:36:53.814Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationCities=null","service":"user-service","timestamp":"2023-03-22T12:36:57.804Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T12:36:57.804Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T12:36:57.822Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T12:36:57.827Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T12:37:17.243Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationCities=null","service":"user-service","timestamp":"2023-03-22T12:37:21.266Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T12:37:21.266Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T12:37:22.429Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T12:37:22.440Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-22T12:38:27.233Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T12:38:27.234Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T12:38:28.292Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T12:38:28.294Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T12:40:02.084Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-22T12:40:05.415Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T12:40:05.415Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T12:40:06.389Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T12:40:06.399Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T12:40:55.511Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-22T12:41:10.130Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-22T12:41:13.972Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-22T12:41:13.972Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-22T12:41:14.913Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-22T12:41:14.915Z"}

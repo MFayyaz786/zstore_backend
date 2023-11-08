@@ -1,0 +1,48 @@
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-12T09:29:39.822Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T09:29:39.827Z"}
+{"level":"info","message":{"msg":"Successful"},"service":"user-service","timestamp":"2023-01-12T09:29:46.006Z"}
+{"level":"info","message":"{\"msg\":\"Successful\"}","service":"user-service","timestamp":"2023-01-12T09:29:46.008Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-12T10:01:14.748Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"Returned","timestamp":"2023-01-12T10:01:14.752Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-01-12T10:01:15.162Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-01-12T10:01:15.164Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-12T10:04:20.996Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"Returned","timestamp":"2023-01-12T10:04:21.002Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-01-12T10:04:21.379Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-01-12T10:04:21.381Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-12T10:05:15.129Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"Returned","timestamp":"2023-01-12T10:05:15.133Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-01-12T10:05:16.032Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-01-12T10:05:16.035Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-12T10:08:22.220Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"Returned","timestamp":"2023-01-12T10:08:22.224Z"}
+{"level":"info","message":{"msg":"Order Not Dispatch"},"service":"user-service","timestamp":"2023-01-12T10:08:22.411Z"}
+{"level":"info","message":"{\"msg\":\"Order Not Dispatch\"}","service":"user-service","timestamp":"2023-01-12T10:08:22.413Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-12T11:01:16.917Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:01:16.925Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading 'slice')"},"service":"user-service","timestamp":"2023-01-12T11:01:17.081Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading 'slice')\"}","service":"user-service","timestamp":"2023-01-12T11:01:17.083Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-12T11:03:31.927Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:03:31.932Z"}
+{"level":"info","message":{"msg":"Cannot read properties of undefined (reading 'slice')"},"service":"user-service","timestamp":"2023-01-12T11:03:32.188Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of undefined (reading 'slice')\"}","service":"user-service","timestamp":"2023-01-12T11:03:32.192Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-12T11:04:29.490Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:04:29.495Z"}
+{"level":"info","message":{"msg":"CNIC is already registered as a customer"},"service":"user-service","timestamp":"2023-01-12T11:04:32.478Z"}
+{"level":"info","message":"{\"msg\":\"CNIC is already registered as a customer\"}","service":"user-service","timestamp":"2023-01-12T11:04:32.480Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-12T11:05:12.990Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:05:12.990Z"}
+{"level":"info","message":{"msg":"error:0909006C:PEM routines:get_name:no start line"},"service":"user-service","timestamp":"2023-01-12T11:05:13.127Z"}
+{"level":"info","message":"{\"msg\":\"error:0909006C:PEM routines:get_name:no start line\"}","service":"user-service","timestamp":"2023-01-12T11:05:13.129Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-12T11:06:31.045Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:06:31.046Z"}
+{"level":"info","message":{"msg":"error:0909006C:PEM routines:get_name:no start line"},"service":"user-service","timestamp":"2023-01-12T11:06:32.317Z"}
+{"level":"info","message":"{\"msg\":\"error:0909006C:PEM routines:get_name:no start line\"}","service":"user-service","timestamp":"2023-01-12T11:06:32.320Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-12T11:37:19.208Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T11:37:19.208Z"}
+{"level":"info","message":{"msg":"error:0909006C:PEM routines:get_name:no start line"},"service":"user-service","timestamp":"2023-01-12T11:37:19.369Z"}
+{"level":"info","message":"{\"msg\":\"error:0909006C:PEM routines:get_name:no start line\"}","service":"user-service","timestamp":"2023-01-12T11:37:19.370Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-12T16:56:20.823Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-12T16:56:20.825Z"}
+{"level":"info","message":{"msg":"Operation `customers.findOne()` buffering timed out after 10000ms"},"service":"user-service","timestamp":"2023-01-12T16:56:30.856Z"}
+{"level":"info","message":"{\"msg\":\"Operation `customers.findOne()` buffering timed out after 10000ms\"}","service":"user-service","timestamp":"2023-01-12T16:56:30.859Z"}

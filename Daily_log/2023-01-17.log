@@ -1,0 +1,232 @@
+{"level":"info","message":"/api/v1/zindigiWallet/paymentInquiry","service":"user-service","timestamp":"2023-01-17T04:46:08.912Z"}
+{"level":"info","message":{"amount":50,"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T04:46:08.915Z"}
+{"level":"info","message":{"msg":"getaddrinfo ENOTFOUND blbuat.jsbl.com"},"service":"user-service","timestamp":"2023-01-17T04:46:09.415Z"}
+{"level":"info","message":"{\"msg\":\"getaddrinfo ENOTFOUND blbuat.jsbl.com\"}","service":"user-service","timestamp":"2023-01-17T04:46:09.416Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/paymentInquiry","service":"user-service","timestamp":"2023-01-17T04:47:39.700Z"}
+{"level":"info","message":{"amount":50,"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T04:47:39.703Z"}
+{"level":"info","message":{"msg":"getaddrinfo ENOTFOUND blbuat.jsbl.com"},"service":"user-service","timestamp":"2023-01-17T04:47:40.151Z"}
+{"level":"info","message":"{\"msg\":\"getaddrinfo ENOTFOUND blbuat.jsbl.com\"}","service":"user-service","timestamp":"2023-01-17T04:47:40.152Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/paymentInquiry","service":"user-service","timestamp":"2023-01-17T04:50:18.292Z"}
+{"level":"info","message":{"amount":50,"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T04:50:18.293Z"}
+{"level":"info","message":{"msg":"getaddrinfo ENOTFOUND blbuat.jsbl.com"},"service":"user-service","timestamp":"2023-01-17T04:50:18.763Z"}
+{"level":"info","message":"{\"msg\":\"getaddrinfo ENOTFOUND blbuat.jsbl.com\"}","service":"user-service","timestamp":"2023-01-17T04:50:18.765Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/payment","service":"user-service","timestamp":"2023-01-17T05:32:10.502Z"}
+{"level":"info","message":{"amount":500,"otp":"63088","userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T05:32:10.508Z"}
+{"level":"info","message":{"msg":"traceNo is not defined"},"service":"user-service","timestamp":"2023-01-17T05:32:10.688Z"}
+{"level":"info","message":"{\"msg\":\"traceNo is not defined\"}","service":"user-service","timestamp":"2023-01-17T05:32:10.691Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/payment","service":"user-service","timestamp":"2023-01-17T05:32:42.183Z"}
+{"level":"info","message":{"amount":500,"otp":"63088","userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T05:32:42.185Z"}
+{"level":"info","message":{"msg":"traceNo is not defined"},"service":"user-service","timestamp":"2023-01-17T05:32:43.534Z"}
+{"level":"info","message":"{\"msg\":\"traceNo is not defined\"}","service":"user-service","timestamp":"2023-01-17T05:32:43.535Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/payment","service":"user-service","timestamp":"2023-01-17T05:33:14.628Z"}
+{"level":"info","message":{"amount":500,"otp":"63088","userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T05:33:14.629Z"}
+{"level":"info","message":{"msg":"getaddrinfo ENOTFOUND blbuat.jsbl.com"},"service":"user-service","timestamp":"2023-01-17T05:33:23.147Z"}
+{"level":"info","message":"{\"msg\":\"getaddrinfo ENOTFOUND blbuat.jsbl.com\"}","service":"user-service","timestamp":"2023-01-17T05:33:23.149Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/balanceInquiry","service":"user-service","timestamp":"2023-01-17T06:25:28.820Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-17T06:25:28.825Z"}
+{"level":"info","message":{"msg":"getaddrinfo ENOTFOUND blbuat.jsbl.com"},"service":"user-service","timestamp":"2023-01-17T06:25:29.368Z"}
+{"level":"info","message":"{\"msg\":\"getaddrinfo ENOTFOUND blbuat.jsbl.com\"}","service":"user-service","timestamp":"2023-01-17T06:25:29.370Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-17T07:37:48.641Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:37:48.646Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-17T07:37:48.651Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-17T07:37:48.655Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-17T07:38:13.265Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:38:13.265Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-17T07:38:13.271Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-17T07:38:13.272Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-17T07:39:03.903Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:39:03.904Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-17T07:39:03.904Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-17T07:39:03.904Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T07:42:25.939Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:42:25.943Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-17T07:42:25.950Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-17T07:42:25.952Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T07:43:53.255Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:43:53.257Z"}
+{"level":"info","message":{"msg":"_id is not defined"},"service":"user-service","timestamp":"2023-01-17T07:43:53.280Z"}
+{"level":"info","message":"{\"msg\":\"_id is not defined\"}","service":"user-service","timestamp":"2023-01-17T07:43:53.281Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-17T07:47:51.471Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:47:51.479Z"}
+{"level":"info","message":{"msg":"_id is not defined"},"service":"user-service","timestamp":"2023-01-17T07:47:51.681Z"}
+{"level":"info","message":"{\"msg\":\"_id is not defined\"}","service":"user-service","timestamp":"2023-01-17T07:47:51.683Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T07:53:47.988Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:53:47.992Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T07:53:48.166Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T07:53:48.169Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T07:54:09.230Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:54:09.234Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T07:54:09.585Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T07:54:09.588Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T07:55:55.037Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T07:55:55.037Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T07:55:55.160Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T07:55:55.161Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:39:45.605Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:39:45.610Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:39:50.340Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:39:50.343Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:41:42.847Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:41:42.849Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:41:46.902Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:41:46.904Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:42:44.823Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:42:44.829Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:42:48.614Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:42:48.618Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:45:43.950Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:45:43.954Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:45:44.110Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:45:44.112Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:47:43.794Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:47:43.798Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:47:44.063Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:47:44.065Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:51:49.899Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:51:49.903Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:51:50.078Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:51:50.080Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T09:56:30.200Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T09:56:30.204Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:56:30.406Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:56:30.408Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T09:58:52.005Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T09:58:52.009Z"}
+{"level":"info","message":{"msg":"customerServices.otpById is not a function"},"service":"user-service","timestamp":"2023-01-17T09:58:52.026Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.otpById is not a function\"}","service":"user-service","timestamp":"2023-01-17T09:58:52.029Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T10:05:46.961Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T10:05:46.966Z"}
+{"level":"info","message":{"msg":"customerServices.saveOtp is not a function"},"service":"user-service","timestamp":"2023-01-17T10:05:46.982Z"}
+{"level":"info","message":"{\"msg\":\"customerServices.saveOtp is not a function\"}","service":"user-service","timestamp":"2023-01-17T10:05:46.984Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T10:12:23.594Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T10:13:10.818Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T10:13:10.823Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T10:13:10.869Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T10:13:10.870Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T10:14:47.713Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T10:14:47.719Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T10:14:47.949Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T10:14:47.951Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:15:03.305Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:15:03.305Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-01-17T10:15:08.492Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-01-17T10:15:09.434Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-01-17T10:15:09.435Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:16:14.628Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:16:14.630Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:16:14.743Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:16:20.950Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:16:20.950Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:16:21.060Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:20:30.338Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:20:30.342Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:20:30.485Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:21:06.867Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:21:06.869Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:21:07.426Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:21:54.458Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:21:54.458Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:21:54.617Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:22:24.320Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"1826"},"service":"user-service","timestamp":"2023-01-17T10:22:24.325Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:22:24.542Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:23:57.020Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:23:57.024Z"}
+{"level":"info","message":"{\"msg\":\"OTP not sent\"}","service":"user-service","timestamp":"2023-01-17T10:23:57.398Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:24:30.619Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:24:30.619Z"}
+{"level":"info","message":"{\"msg\":\"OTP not sent\"}","service":"user-service","timestamp":"2023-01-17T10:24:30.894Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:25:50.131Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:25:50.135Z"}
+{"level":"info","message":"{\"msg\":\"OTP not sent\"}","service":"user-service","timestamp":"2023-01-17T10:25:50.491Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:26:21.475Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:26:21.477Z"}
+{"level":"info","message":"{\"msg\":\"OTP not sent\"}","service":"user-service","timestamp":"2023-01-17T10:26:22.893Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:27:30.062Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:27:30.063Z"}
+{"level":"info","message":"{\"msg\":\"OTP not sent\"}","service":"user-service","timestamp":"2023-01-17T10:27:32.607Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:36:31.309Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:36:31.314Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-01-17T10:36:35.884Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-01-17T10:36:36.755Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-01-17T10:36:36.756Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:37:42.144Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:37:42.145Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:37:42.260Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:38:35.407Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:38:35.407Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:38:35.584Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:39:07.247Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:39:07.251Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:39:07.397Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:39:29.280Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:39:29.282Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:39:30.559Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:40:57.802Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:40:57.809Z"}
+{"level":"info","message":"{\"msg\":\"OTP Expire Please Try Again\"}","service":"user-service","timestamp":"2023-01-17T10:40:58.127Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:41:54.561Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"0938"},"service":"user-service","timestamp":"2023-01-17T10:41:54.562Z"}
+{"level":"info","message":"{\"msg\":\"OTP Expire Please Try Again\"}","service":"user-service","timestamp":"2023-01-17T10:41:56.192Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:42:12.338Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:42:12.338Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-01-17T10:42:16.570Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-01-17T10:42:17.385Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-01-17T10:42:17.385Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:42:40.537Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"8269"},"service":"user-service","timestamp":"2023-01-17T10:42:40.538Z"}
+{"level":"info","message":"{\"msg\":\"OTP Varified\"}","service":"user-service","timestamp":"2023-01-17T10:42:40.970Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:42:46.800Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"8260"},"service":"user-service","timestamp":"2023-01-17T10:42:46.801Z"}
+{"level":"info","message":"{\"msg\":\"OTP Not Varified\"}","service":"user-service","timestamp":"2023-01-17T10:42:46.978Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:42:52.476Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"8269"},"service":"user-service","timestamp":"2023-01-17T10:42:52.477Z"}
+{"level":"info","message":"{\"msg\":\"OTP Varified\"}","service":"user-service","timestamp":"2023-01-17T10:42:52.822Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T10:58:33.954Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T10:58:33.960Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-01-17T10:58:41.923Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-01-17T10:58:43.811Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-01-17T10:58:43.812Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:58:58.572Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T10:58:58.572Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:58:59.644Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T10:59:05.425Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T10:59:05.425Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T10:59:06.754Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T11:00:19.244Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T11:00:19.246Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T11:00:19.762Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T11:00:38.927Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T11:00:38.929Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T11:00:40.725Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T11:01:01.664Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T11:01:01.671Z"}
+{"level":"info","message":"{\"msg\":{}}","service":"user-service","timestamp":"2023-01-17T11:01:02.269Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/verify","service":"user-service","timestamp":"2023-01-17T11:02:01.822Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com","otp":"5929"},"service":"user-service","timestamp":"2023-01-17T11:02:01.828Z"}
+{"level":"info","message":"{\"msg\":\"OTP Expire Please Try Again\"}","service":"user-service","timestamp":"2023-01-17T11:02:02.065Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T11:30:03.325Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T11:30:03.328Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T11:30:05.869Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T11:30:05.871Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T11:32:03.764Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T11:32:03.767Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T11:32:05.572Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T11:32:05.574Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T11:38:43.512Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T11:38:43.514Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T11:38:45.571Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T11:38:45.573Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T12:01:33.551Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T12:01:33.554Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T12:01:36.907Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T12:01:36.908Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/deLinkAccountOtp?email=mfayyazkaror@gmail.com","service":"user-service","timestamp":"2023-01-17T12:02:31.994Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-17T12:02:31.999Z"}
+{"level":"info","message":{"msg":"Otp Send to Your Mobile!"},"service":"user-service","timestamp":"2023-01-17T12:02:34.866Z"}
+{"level":"info","message":"{\"msg\":\"Otp Send to Your Mobile!\"}","service":"user-service","timestamp":"2023-01-17T12:02:34.868Z"}
+{"level":"info","message":"/api/v1/customer/resetpassword/otp","service":"user-service","timestamp":"2023-01-17T12:10:12.345Z"}
+{"level":"info","message":{"email":"mfayyazkaror@gmail.com"},"service":"user-service","timestamp":"2023-01-17T12:10:12.347Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-01-17T12:10:16.990Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-01-17T12:10:18.372Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-01-17T12:10:18.373Z"}

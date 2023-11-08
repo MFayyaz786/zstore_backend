@@ -1,0 +1,79 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:18:24.443Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:18:45.424Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-27T07:19:40.639Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-27T07:19:40.639Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-27T07:19:41.935Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-27T07:19:41.936Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T07:22:39.502Z"}
+{"level":"info","message":{"orderDetails":"","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":""},"service":"user-service","timestamp":"2023-03-27T07:22:39.503Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:23:21.454Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:23:54.318Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:24:06.340Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T07:24:11.562Z"}
+{"level":"info","message":{"orderDetails":"","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":""},"service":"user-service","timestamp":"2023-03-27T07:24:11.563Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:32:24.694Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:33:08.382Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:39:48.817Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:51:10.609Z"}
+{"level":"info","message":"/api/v1/customer/signup","service":"user-service","timestamp":"2023-03-27T07:51:40.268Z"}
+{"level":"info","message":{"address":"appinsnap","cnic":"3220227861807","contact":"472237594","email":"mfayyazkaror89@gmail.com","firstName":"fayyaz","gender":"male","lastName":"danish","password":"Audi@786","reEnterPassword":"Audi@786"},"service":"user-service","timestamp":"2023-03-27T07:51:40.269Z"}
+{"level":"info","message":{"msg":"Assignment to constant variable."},"service":"user-service","timestamp":"2023-03-27T07:51:40.276Z"}
+{"level":"info","message":"{\"msg\":\"Assignment to constant variable.\"}","service":"user-service","timestamp":"2023-03-27T07:51:40.277Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:51:57.403Z"}
+{"level":"info","message":"/api/v1/customer/signup","service":"user-service","timestamp":"2023-03-27T07:52:01.189Z"}
+{"level":"info","message":{"address":"appinsnap","cnic":"3220227861807","contact":"472237594","email":"mfayyazkaror89@gmail.com","firstName":"fayyaz","gender":"male","lastName":"danish","password":"Audi@786","reEnterPassword":"Audi@786"},"service":"user-service","timestamp":"2023-03-27T07:52:01.189Z"}
+{"level":"info","message":{"msg":"Please enter valid mobile number!"},"service":"user-service","timestamp":"2023-03-27T07:52:01.190Z"}
+{"level":"info","message":"{\"msg\":\"Please enter valid mobile number!\"}","service":"user-service","timestamp":"2023-03-27T07:52:01.190Z"}
+{"level":"info","message":"/api/v1/customer/signup","service":"user-service","timestamp":"2023-03-27T07:52:10.214Z"}
+{"level":"info","message":{"address":"appinsnap","cnic":"3220227861807","contact":"3472237594","email":"mfayyazkaror89@gmail.com","firstName":"fayyaz","gender":"male","lastName":"danish","password":"Audi@786","reEnterPassword":"Audi@786"},"service":"user-service","timestamp":"2023-03-27T07:52:10.215Z"}
+{"level":"info","message":{"msg":"Please enter valid mobile number!"},"service":"user-service","timestamp":"2023-03-27T07:52:10.215Z"}
+{"level":"info","message":"{\"msg\":\"Please enter valid mobile number!\"}","service":"user-service","timestamp":"2023-03-27T07:52:10.216Z"}
+{"level":"info","message":"/api/v1/customer/signup","service":"user-service","timestamp":"2023-03-27T07:52:16.488Z"}
+{"level":"info","message":{"address":"appinsnap","cnic":"3220227861807","contact":"03472237594","email":"mfayyazkaror89@gmail.com","firstName":"fayyaz","gender":"male","lastName":"danish","password":"Audi@786","reEnterPassword":"Audi@786"},"service":"user-service","timestamp":"2023-03-27T07:52:16.488Z"}
+{"level":"info","message":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDIxNGIzMGQ3Njg0Yjg4MDFiZTkxZDAiLCJ0eXBlIjoidXNlciIsImlhdCI6MTY3OTkwMzUzNywiZXhwIjoxNzExNDM5NTM3fQ.OZ1OeACo8vWDVZf9jt9pzzS-HCvjodr_h2AR7sgp_bw","data":{"__v":0,"_id":"64214b30d7684b8801be91d0","address":"appinsnap","cnic":"3220227861807","contact":"true","createdAt":"2023-03-27T07:52:17.000Z","email":"mfayyazkaror89@gmail.com","fcmToken":null,"firstName":"fayyaz","gender":"male","image":"images/profile.png","isVarified":false,"lastName":"danish","membershipCategory":null,"password":"$2b$10$hZmqa/jL5Xn5qY8YBu.xMO5fQwDOJ1APy5P3O3eAFobkXHmmO7Dbe","points":250,"token":null,"updatedAt":"2023-03-27T07:52:17.000Z","zindigiWallet":{"linked":false,"title":null,"zindigiWalletNumber":null}},"msg":"Registered Successfully","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiZTUzYmNhODEtZTYwNy00YTEzLWJlYTAtZGZkODY1MWFhOTA5IiwidHlwZSI6InVzZXIiLCJpYXQiOjE2Nzk5MDM1MzcsImV4cCI6MTcxMTQzOTUzN30.WkYB0IIS7QOODDVSAk2jXUZ3gvmoNMDgdHFb5foTRw0"},"service":"user-service","timestamp":"2023-03-27T07:52:17.810Z"}
+{"level":"info","message":"{\"msg\":\"Registered Successfully\",\"data\":{\"firstName\":\"fayyaz\",\"lastName\":\"danish\",\"email\":\"mfayyazkaror89@gmail.com\",\"password\":\"$2b$10$hZmqa/jL5Xn5qY8YBu.xMO5fQwDOJ1APy5P3O3eAFobkXHmmO7Dbe\",\"cnic\":\"3220227861807\",\"contact\":\"true\",\"address\":\"appinsnap\",\"gender\":\"male\",\"image\":\"images/profile.png\",\"isVarified\":false,\"points\":250,\"membershipCategory\":null,\"fcmToken\":null,\"token\":null,\"zindigiWallet\":{\"zindigiWalletNumber\":null,\"title\":null,\"linked\":false},\"_id\":\"64214b30d7684b8801be91d0\",\"createdAt\":\"2023-03-27T07:52:17.000Z\",\"updatedAt\":\"2023-03-27T07:52:17.000Z\",\"__v\":0},\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDIxNGIzMGQ3Njg0Yjg4MDFiZTkxZDAiLCJ0eXBlIjoidXNlciIsImlhdCI6MTY3OTkwMzUzNywiZXhwIjoxNzExNDM5NTM3fQ.OZ1OeACo8vWDVZf9jt9pzzS-HCvjodr_h2AR7sgp_bw\",\"refreshToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiZTUzYmNhODEtZTYwNy00YTEzLWJlYTAtZGZkODY1MWFhOTA5IiwidHlwZSI6InVzZXIiLCJpYXQiOjE2Nzk5MDM1MzcsImV4cCI6MTcxMTQzOTUzN30.WkYB0IIS7QOODDVSAk2jXUZ3gvmoNMDgdHFb5foTRw0\"}","service":"user-service","timestamp":"2023-03-27T07:52:17.812Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:53:35.311Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T07:54:29.623Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T08:14:42.041Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T08:15:09.394Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T08:15:32.564Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T08:16:40.250Z"}
+{"level":"info","message":{"orderDetails":"","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":""},"service":"user-service","timestamp":"2023-03-27T08:16:40.250Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:39:06.329Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:40:03.456Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:40:17.608Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T11:41:50.161Z"}
+{"level":"info","message":{"orderDetails":"","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":""},"service":"user-service","timestamp":"2023-03-27T11:41:50.162Z"}
+{"level":"info","message":{"msg":"orderRefNumber is not defined"},"service":"user-service","timestamp":"2023-03-27T11:41:50.483Z"}
+{"level":"info","message":"{\"msg\":\"orderRefNumber is not defined\"}","service":"user-service","timestamp":"2023-03-27T11:41:50.486Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:52:45.343Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:53:20.428Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:55:01.038Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:55:26.248Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T11:56:10.931Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-27T11:56:10.931Z"}
+{"level":"info","message":{"msg":"products is not defined"},"service":"user-service","timestamp":"2023-03-27T11:56:11.425Z"}
+{"level":"info","message":"{\"msg\":\"products is not defined\"}","service":"user-service","timestamp":"2023-03-27T11:56:11.426Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:56:37.943Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:56:56.539Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T11:57:00.160Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-27T11:57:00.160Z"}
+{"level":"info","message":{"msg":"Request failed with status code 405"},"service":"user-service","timestamp":"2023-03-27T11:57:01.547Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 405\"}","service":"user-service","timestamp":"2023-03-27T11:57:01.548Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T11:59:00.588Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T12:00:42.159Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T12:00:50.394Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T12:00:54.836Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63b80f65bf58b8a6f652733c","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-27T12:00:54.836Z"}
+{"level":"info","message":{"msg":"Request failed with status code 405"},"service":"user-service","timestamp":"2023-03-27T12:00:56.054Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 405\"}","service":"user-service","timestamp":"2023-03-27T12:00:56.058Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T12:01:30.462Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-27T12:01:30.462Z"}
+{"level":"info","message":{"msg":"Request failed with status code 405"},"service":"user-service","timestamp":"2023-03-27T12:01:31.672Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 405\"}","service":"user-service","timestamp":"2023-03-27T12:01:31.674Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T12:03:07.438Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-27T12:03:31.554Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-27T12:03:36.535Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-27T12:03:36.535Z"}
+{"level":"info","message":{"msg":"Request failed with status code 415"},"service":"user-service","timestamp":"2023-03-27T12:03:38.356Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 415\"}","service":"user-service","timestamp":"2023-03-27T12:03:38.358Z"}

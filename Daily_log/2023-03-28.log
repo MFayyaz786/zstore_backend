@@ -1,0 +1,257 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:13:01.594Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:13:05.163Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:13:05.163Z"}
+{"level":"info","message":{"msg":"Request failed with status code 415"},"service":"user-service","timestamp":"2023-03-28T09:13:06.482Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 415\"}","service":"user-service","timestamp":"2023-03-28T09:13:06.484Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:29:07.981Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:29:21.803Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:29:21.804Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:29:23.079Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:29:23.080Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:30:54.637Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:31:07.738Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:31:07.739Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:31:08.755Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:31:08.757Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:31:57.112Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:32:00.199Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"Normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:32:00.200Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:32:02.313Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:32:02.315Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:32:41.345Z"}
+{"level":"info","message":{"orderDetails":"this order","orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:32:41.346Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:32:42.358Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:32:42.359Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:33:55.557Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:34:30.297Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:34:30.297Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:34:31.607Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:34:31.608Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:36:32.468Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:36:37.598Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"44600"},"service":"user-service","timestamp":"2023-03-28T09:36:37.599Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:36:38.700Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:36:38.715Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:39:33.839Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45600"},"service":"user-service","timestamp":"2023-03-28T09:39:33.839Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:39:35.021Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:39:35.022Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:42:37.199Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:42:40.627Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45600"},"service":"user-service","timestamp":"2023-03-28T09:42:40.628Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:42:41.904Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:42:41.905Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:44:29.028Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45600"},"service":"user-service","timestamp":"2023-03-28T09:44:29.029Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:44:30.135Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:44:30.136Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:46:02.431Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:46:18.747Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45600"},"service":"user-service","timestamp":"2023-03-28T09:46:18.748Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:46:20.065Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:46:20.066Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:49:16.924Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:49:16.924Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:49:17.877Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:49:17.878Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:49:54.962Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:49:58.584Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:49:58.585Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:49:59.879Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:49:59.881Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-28T09:50:18.906Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T09:50:18.906Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-28T09:50:19.723Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-28T09:50:19.725Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:50:48.941Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:50:48.941Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:50:50.198Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:50:50.201Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:51:22.363Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:51:28.500Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:51:28.501Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:51:29.921Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:51:29.926Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:53:02.914Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:53:07.861Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:53:07.861Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:53:08.912Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:53:08.913Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:56:25.985Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:56:30.006Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:56:30.007Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:56:31.418Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:56:31.420Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T09:57:10.576Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T09:57:27.513Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T09:57:27.513Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T09:57:28.614Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T09:57:28.617Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:18:19.821Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:18:19.822Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:18:21.481Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:18:21.483Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:19:37.202Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:19:37.203Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:19:38.318Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:19:38.318Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:20:10.184Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:20:10.184Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:20:11.356Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:20:11.357Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:20:37.251Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:20:37.252Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:20:38.390Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:20:38.391Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:21:12.455Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:21:12.456Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:21:13.660Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:21:13.660Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:22:09.629Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:22:09.630Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:22:11.329Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:22:11.330Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:23:02.440Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:23:02.440Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:23:03.933Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:23:03.935Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:41:22.341Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:41:50.960Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:41:59.291Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:41:59.291Z"}
+{"level":"info","message":{"msg":"Cannot access 'token' before initialization"},"service":"user-service","timestamp":"2023-03-28T10:41:59.626Z"}
+{"level":"info","message":"{\"msg\":\"Cannot access 'token' before initialization\"}","service":"user-service","timestamp":"2023-03-28T10:41:59.627Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:42:21.933Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:42:26.291Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:42:26.291Z"}
+{"level":"info","message":{"msg":"Request failed with status code 405"},"service":"user-service","timestamp":"2023-03-28T10:42:27.366Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 405\"}","service":"user-service","timestamp":"2023-03-28T10:42:27.367Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:45:24.638Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:45:28.522Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:45:28.522Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:45:30.483Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:45:30.485Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:46:03.338Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:46:11.866Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"45200"},"service":"user-service","timestamp":"2023-03-28T10:46:11.866Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-28T10:46:13.855Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-28T10:46:13.856Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T10:47:30.864Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"001"},"service":"user-service","timestamp":"2023-03-28T10:47:30.864Z"}
+{"level":"info","message":{"dist":{"orderDate":"2023-03-28 15:47:32.0","orderStatus":"UnBooked","trackingNumber":"20000680006872"},"statusCode":"200","statusMessage":"ORDER HAS BEEN CREATED"},"service":"user-service","timestamp":"2023-03-28T10:47:33.430Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CREATED\",\"dist\":{\"trackingNumber\":\"20000680006872\",\"orderStatus\":\"UnBooked\",\"orderDate\":\"2023-03-28 15:47:32.0\"}}","service":"user-service","timestamp":"2023-03-28T10:47:33.431Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:48:34.640Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:52:10.552Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:54:05.947Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:54:16.700Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:54:21.547Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:54:40.630Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T10:54:47.563Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:02:35.668Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:02:52.702Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:03:03.451Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-28T11:03:12.878Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:03:12.878Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-28T11:03:14.086Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-28T11:03:14.088Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-28T11:06:20.949Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:06:20.950Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-28T11:06:21.793Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-28T11:06:21.794Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:08:15.053Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:08:38.709Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:09:14.578Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:09:44.876Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:10:04.398Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:11:23.012Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:11:34.281Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:11:45.988Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:12:11.202Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:12:22.387Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:13:09.942Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:13:27.006Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:13:54.896Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:14:05.503Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:14:13.871Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:14:36.789Z"}
+{"level":"info","message":"/api/v1/courier/warehouse","service":"user-service","timestamp":"2023-03-28T11:14:39.850Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:14:39.851Z"}
+{"level":"info","message":{"dist":[{"address":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","addressCode":"001","cityId":3,"cityName":"Rawalpindi","contactPersonName":"Needs Store","isEditable":false,"merchantAddressId":71,"merchantId":68,"phone1":"03136688319","phone2":"03136688319"},{"address":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi.","addressCode":"002","cityId":3,"cityName":"Rawalpindi","contactPersonName":"Needs Store","isEditable":false,"merchantAddressId":1801,"merchantId":68,"phone1":"03136688319","phone2":"03136688319"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-28T11:14:40.982Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"merchantAddressId\":71,\"address\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"phone1\":\"03136688319\",\"phone2\":\"03136688319\",\"contactPersonName\":\"Needs Store\",\"merchantId\":68,\"cityId\":3,\"cityName\":\"Rawalpindi\",\"addressCode\":\"001\",\"isEditable\":false},{\"merchantAddressId\":1801,\"address\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi.\",\"phone1\":\"03136688319\",\"phone2\":\"03136688319\",\"contactPersonName\":\"Needs Store\",\"merchantId\":68,\"cityId\":3,\"cityName\":\"Rawalpindi\",\"addressCode\":\"002\",\"isEditable\":false}]}","service":"user-service","timestamp":"2023-03-28T11:14:40.983Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:15:47.984Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:16:37.820Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:18:23.986Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:18:33.913Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T11:19:13.626Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal","pickupAddressCode":"001"},"service":"user-service","timestamp":"2023-03-28T11:19:13.626Z"}
+{"level":"info","message":{"dist":{"orderDate":"2023-03-28 16:19:15.0","orderStatus":"UnBooked","trackingNumber":"20000680006873"},"statusCode":"200","statusMessage":"ORDER HAS BEEN CREATED"},"service":"user-service","timestamp":"2023-03-28T11:19:15.629Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CREATED\",\"dist\":{\"trackingNumber\":\"20000680006873\",\"orderStatus\":\"UnBooked\",\"orderDate\":\"2023-03-28 16:19:15.0\"}}","service":"user-service","timestamp":"2023-03-28T11:19:15.630Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:19:43.071Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:20:14.570Z"}
+{"level":"info","message":"/api/v1/courier/createOrder","service":"user-service","timestamp":"2023-03-28T11:20:40.616Z"}
+{"level":"info","message":{"orderId":"63a94de6ce0b320edc1f2446","orderType":"normal"},"service":"user-service","timestamp":"2023-03-28T11:20:40.617Z"}
+{"level":"info","message":{"dist":{"orderDate":"2023-03-28 16:20:42.0","orderStatus":"UnBooked","trackingNumber":"20000680006874"},"statusCode":"200","statusMessage":"ORDER HAS BEEN CREATED"},"service":"user-service","timestamp":"2023-03-28T11:20:42.471Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"ORDER HAS BEEN CREATED\",\"dist\":{\"trackingNumber\":\"20000680006874\",\"orderStatus\":\"UnBooked\",\"orderDate\":\"2023-03-28 16:20:42.0\"}}","service":"user-service","timestamp":"2023-03-28T11:20:42.473Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:22:50.419Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:23:20.384Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:23:56.010Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:24:05.024Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:24:19.315Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:24:37.414Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:25:02.883Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:25:21.798Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:26:04.456Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack","service":"user-service","timestamp":"2023-03-28T11:26:43.123Z"}
+{"level":"info","message":{"trackingNumber":"20000680006874"},"service":"user-service","timestamp":"2023-03-28T11:26:43.123Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack","service":"user-service","timestamp":"2023-03-28T11:27:06.957Z"}
+{"level":"info","message":{"trackingNumber":"20000680006874"},"service":"user-service","timestamp":"2023-03-28T11:27:06.958Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:27:14.744Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:27:14.745Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:27:38.179Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:27:38.183Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:28:04.456Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack","service":"user-service","timestamp":"2023-03-28T11:28:09.105Z"}
+{"level":"info","message":{"trackingNumber":"20000680006874"},"service":"user-service","timestamp":"2023-03-28T11:28:09.106Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:28:40.457Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:28:40.458Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:29:25.897Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:29:55.317Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:30:10.763Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack","service":"user-service","timestamp":"2023-03-28T11:30:14.631Z"}
+{"level":"info","message":{"trackingNumber":"20000680006874"},"service":"user-service","timestamp":"2023-03-28T11:30:14.632Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:30:45.831Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:30:45.835Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:30:59.415Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:30:59.416Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:31:30.963Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:31:30.965Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:33:25.976Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:33:31.870Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:33:31.871Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:34:03.395Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:34:03.396Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:35:02.808Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:37:02.564Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities","service":"user-service","timestamp":"2023-03-28T11:37:11.749Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:37:11.749Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-28T11:37:12.768Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-28T11:37:12.771Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:37:18.503Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:37:18.504Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:37:49.549Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:37:49.549Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:41:03.047Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:41:03.048Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:41:37.634Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:41:37.636Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:42:06.507Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:42:13.854Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:42:13.854Z"}
+{"level":"info","message":{"msg":"timeout of 5000ms exceeded"},"service":"user-service","timestamp":"2023-03-28T11:42:19.096Z"}
+{"level":"info","message":"{\"msg\":\"timeout of 5000ms exceeded\"}","service":"user-service","timestamp":"2023-03-28T11:42:19.097Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:42:51.036Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-28T11:44:02.209Z"}
+{"level":"info","message":"/api/v1/courier/orderTrack?trackingNumber=20000680006874","service":"user-service","timestamp":"2023-03-28T11:44:06.806Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-28T11:44:06.807Z"}
+{"level":"info","message":{"msg":"Request failed with status code 522"},"service":"user-service","timestamp":"2023-03-28T11:44:38.533Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 522\"}","service":"user-service","timestamp":"2023-03-28T11:44:38.534Z"}

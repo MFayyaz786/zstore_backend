@@ -1,0 +1,51 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T06:19:58.546Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T06:20:51.981Z"}
+{"level":"info","message":"/api/v1/courier/postEx/warehouse","service":"user-service","timestamp":"2023-04-06T06:20:57.873Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-06T06:20:57.874Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-06T06:20:59.116Z"}
+{"level":"info","message":"{}","service":"user-service","timestamp":"2023-04-06T06:20:59.117Z"}
+{"level":"info","message":"/api/v1/courier/postEx/warehouse","service":"user-service","timestamp":"2023-04-06T06:21:01.813Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-06T06:21:01.813Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-06T06:21:02.771Z"}
+{"level":"info","message":"{}","service":"user-service","timestamp":"2023-04-06T06:21:02.772Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T06:21:48.762Z"}
+{"level":"info","message":"/api/v1/courier/postEx/warehouse","service":"user-service","timestamp":"2023-04-06T06:21:52.216Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-04-06T06:21:52.216Z"}
+{"level":"info","message":{"dist":[{"address":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi","addressCode":"001","addressType":"Default Address","cityId":3,"cityName":"Rawalpindi","contactPersonName":"Needs Store","isEditable":false,"merchantAddressId":71,"merchantId":68,"phone1":"03136688319","phone2":"03136688319"},{"address":"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi.","addressCode":"002","addressType":"Pickup Address","cityId":3,"cityName":"Rawalpindi","contactPersonName":"Needs Store","isEditable":false,"merchantAddressId":1801,"merchantId":68,"phone1":"03136688319","phone2":"03136688319"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-04-06T06:21:53.244Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"merchantAddressId\":71,\"address\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi\",\"phone1\":\"03136688319\",\"phone2\":\"03136688319\",\"contactPersonName\":\"Needs Store\",\"merchantId\":68,\"cityId\":3,\"cityName\":\"Rawalpindi\",\"addressCode\":\"001\",\"isEditable\":false,\"addressType\":\"Default Address\"},{\"merchantAddressId\":1801,\"address\":\"141-A, Main boulevard, Chaklala Scheme 3, Rawalpindi.\",\"phone1\":\"03136688319\",\"phone2\":\"03136688319\",\"contactPersonName\":\"Needs Store\",\"merchantId\":68,\"cityId\":3,\"cityName\":\"Rawalpindi\",\"addressCode\":\"002\",\"isEditable\":false,\"addressType\":\"Pickup Address\"}]}","service":"user-service","timestamp":"2023-04-06T06:21:53.245Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:06:16.852Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-06T07:06:22.787Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"642e6abf1f5783fdfb658dc1","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-06T07:06:22.787Z"}
+{"level":"info","message":{"msg":"AxiosError: Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-06T07:06:24.148Z"}
+{"level":"info","message":"{\"msg\":\"AxiosError: Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-06T07:06:24.149Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:07:16.396Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-06T07:07:20.375Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"642e6abf1f5783fdfb658dc1","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-06T07:07:20.376Z"}
+{"level":"info","message":{"msg":"AxiosError: Request failed with status code 400"},"service":"user-service","timestamp":"2023-04-06T07:07:21.479Z"}
+{"level":"info","message":"{\"msg\":\"AxiosError: Request failed with status code 400\"}","service":"user-service","timestamp":"2023-04-06T07:07:21.481Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:14:56.299Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:15:01.498Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-04-06T07:15:04.727Z"}
+{"level":"info","message":{"address":"hhhhjh","channel":"ANDROID APP","contact":"03329699933","couponCode":"00","customer":"63d375b58bb7b07fec39a755","paymentMode":"cod","product":[{"price":20000,"productId":"642a82a38996f5c3a277011b","quantity":1,"size":"S","sku":"B-833S"}],"redeemValue":0,"totalAmount":20230,"totalBill":"20230"},"service":"user-service","timestamp":"2023-04-06T07:15:04.728Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:16:16.963Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-04-06T07:16:20.501Z"}
+{"level":"info","message":{"address":"hhhhjh","channel":"ANDROID APP","contact":"03329699933","couponCode":"00","customer":"63d375b58bb7b07fec39a755","paymentMode":"cod","product":[{"price":20000,"productId":"642a82a38996f5c3a277011b","quantity":1,"size":"S","sku":"B-833S"}],"redeemValue":0,"totalAmount":20230,"totalBill":"20230"},"service":"user-service","timestamp":"2023-04-06T07:16:20.501Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-04-06T07:16:33.993Z"}
+{"level":"info","message":{"address":"hhhhjh","channel":"ANDROID APP","contact":"3329699933","couponCode":"00","customer":"63d375b58bb7b07fec39a755","paymentMode":"cod","product":[{"price":20000,"productId":"642a82a38996f5c3a277011b","quantity":1,"size":"S","sku":"B-833S"}],"redeemValue":0,"totalAmount":20230,"totalBill":"20230"},"service":"user-service","timestamp":"2023-04-06T07:16:33.994Z"}
+{"level":"info","message":{"msg":"Please enter valid contact number 03xxxxxxxxx!"},"service":"user-service","timestamp":"2023-04-06T07:16:33.997Z"}
+{"level":"info","message":"{\"msg\":\"Please enter valid contact number 03xxxxxxxxx!\"}","service":"user-service","timestamp":"2023-04-06T07:16:33.998Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:38:44.550Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-06T07:38:49.145Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"642e76b536f56e8c094e5934","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-06T07:38:49.145Z"}
+{"level":"info","message":{"msg":"TypeError: Cannot read properties of undefined (reading 'data')"},"service":"user-service","timestamp":"2023-04-06T07:38:51.051Z"}
+{"level":"info","message":"{\"msg\":\"TypeError: Cannot read properties of undefined (reading 'data')\"}","service":"user-service","timestamp":"2023-04-06T07:38:51.052Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:40:53.245Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-06T07:40:56.345Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"642e76b536f56e8c094e5934","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-06T07:40:56.346Z"}
+{"level":"info","message":{"msg":"TypeError: Cannot read properties of undefined (reading 'data')"},"service":"user-service","timestamp":"2023-04-06T07:40:59.150Z"}
+{"level":"info","message":"{\"msg\":\"TypeError: Cannot read properties of undefined (reading 'data')\"}","service":"user-service","timestamp":"2023-04-06T07:40:59.152Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-04-06T07:41:34.853Z"}
+{"level":"info","message":"/api/v1/order/orderDispatch","service":"user-service","timestamp":"2023-04-06T07:41:38.681Z"}
+{"level":"info","message":{"courierType":"POSTEX","description":"normal","orderId":"642e76b536f56e8c094e5934","orderStatusType":"Delivered","orderType":"Normal","originCityCode":"001","packing":"Flyer","parcelId":"RWP913990620321","weight":0.5},"service":"user-service","timestamp":"2023-04-06T07:41:38.682Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-04-06T07:41:41.197Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-04-06T07:41:41.198Z"}

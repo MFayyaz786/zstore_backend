@@ -1,0 +1,93 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:34:05.194Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:35:37.202Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:35:37.203Z"}
+{"level":"info","message":{"msg":"find is not defined"},"service":"user-service","timestamp":"2023-03-16T07:35:37.217Z"}
+{"level":"info","message":"{\"msg\":\"find is not defined\"}","service":"user-service","timestamp":"2023-03-16T07:35:37.221Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:36:07.843Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:36:10.585Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:36:10.587Z"}
+{"level":"info","message":{"msg":"userServices.userRole is not a function"},"service":"user-service","timestamp":"2023-03-16T07:36:10.903Z"}
+{"level":"info","message":"{\"msg\":\"userServices.userRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:36:10.904Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:37:07.489Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:37:07.490Z"}
+{"level":"info","message":{"msg":"userServices.userRole is not a function"},"service":"user-service","timestamp":"2023-03-16T07:37:07.634Z"}
+{"level":"info","message":"{\"msg\":\"userServices.userRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:37:07.636Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:37:30.870Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:37:55.507Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:38:07.926Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:38:12.682Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:38:17.699Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:38:17.699Z"}
+{"level":"info","message":{"msg":"userServices.userRole is not a function"},"service":"user-service","timestamp":"2023-03-16T07:38:17.867Z"}
+{"level":"info","message":"{\"msg\":\"userServices.userRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:38:17.870Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:39:26.161Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:39:45.794Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:39:49.657Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:39:49.658Z"}
+{"level":"info","message":{"msg":"userServices.userRole is not a function"},"service":"user-service","timestamp":"2023-03-16T07:39:49.871Z"}
+{"level":"info","message":"{\"msg\":\"userServices.userRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:39:49.873Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:40:23.560Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:40:25.454Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:40:25.455Z"}
+{"level":"info","message":{"msg":"userServices.userRole is not a function"},"service":"user-service","timestamp":"2023-03-16T07:40:26.406Z"}
+{"level":"info","message":"{\"msg\":\"userServices.userRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:40:26.408Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:40:43.245Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:40:46.737Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:40:46.738Z"}
+{"level":"info","message":{"msg":"userServices.role is not a function"},"service":"user-service","timestamp":"2023-03-16T07:40:46.904Z"}
+{"level":"info","message":"{\"msg\":\"userServices.role is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:40:46.906Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:41:09.726Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:41:12.507Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:41:12.507Z"}
+{"level":"info","message":{"msg":"userServices.role is not a function"},"service":"user-service","timestamp":"2023-03-16T07:41:12.528Z"}
+{"level":"info","message":"{\"msg\":\"userServices.role is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:41:12.529Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:41:43.067Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:41:47.375Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:41:47.376Z"}
+{"level":"info","message":{"msg":"user_Role is not defined"},"service":"user-service","timestamp":"2023-03-16T07:41:47.538Z"}
+{"level":"info","message":"{\"msg\":\"user_Role is not defined\"}","service":"user-service","timestamp":"2023-03-16T07:41:47.540Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:41:58.000Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:42:00.965Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:42:00.966Z"}
+{"level":"info","message":{"msg":"userServices.role is not a function"},"service":"user-service","timestamp":"2023-03-16T07:42:00.984Z"}
+{"level":"info","message":"{\"msg\":\"userServices.role is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:42:00.986Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:42:16.321Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:42:19.928Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:42:19.929Z"}
+{"level":"info","message":{"msg":"ID Not found"},"service":"user-service","timestamp":"2023-03-16T07:42:20.871Z"}
+{"level":"info","message":"{\"msg\":\"ID Not found\"}","service":"user-service","timestamp":"2023-03-16T07:42:20.873Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:42:44.086Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:42:56.464Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:43:05.581Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T07:43:11.022Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T07:43:11.022Z"}
+{"level":"info","message":{"msg":"userServices.role is not a function"},"service":"user-service","timestamp":"2023-03-16T07:43:11.049Z"}
+{"level":"info","message":"{\"msg\":\"userServices.role is not a function\"}","service":"user-service","timestamp":"2023-03-16T07:43:11.054Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T07:43:43.073Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:00:41.948Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T08:00:45.772Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T08:00:45.772Z"}
+{"level":"info","message":{"msg":"userServices.getUserRole is not a function"},"service":"user-service","timestamp":"2023-03-16T08:00:45.792Z"}
+{"level":"info","message":"{\"msg\":\"userServices.getUserRole is not a function\"}","service":"user-service","timestamp":"2023-03-16T08:00:45.794Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:01:44.433Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:01:59.766Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:02:12.132Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T08:02:15.620Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T08:02:15.620Z"}
+{"level":"info","message":{"msg":"ID Not found"},"service":"user-service","timestamp":"2023-03-16T08:02:16.141Z"}
+{"level":"info","message":"{\"msg\":\"ID Not found\"}","service":"user-service","timestamp":"2023-03-16T08:02:16.142Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:03:02.428Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T08:03:10.629Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T08:03:13.976Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T08:03:13.976Z"}
+{"level":"info","message":{"msg":"ID Not found"},"service":"user-service","timestamp":"2023-03-16T08:03:14.402Z"}
+{"level":"info","message":"{\"msg\":\"ID Not found\"}","service":"user-service","timestamp":"2023-03-16T08:03:14.403Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-16T09:37:22.087Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T09:37:27.646Z"}
+{"level":"info","message":{"roleId":"6326ef673de14abce98ff9f0"},"service":"user-service","timestamp":"2023-03-16T09:37:27.646Z"}
+{"level":"info","message":{"msg":"ID Not found"},"service":"user-service","timestamp":"2023-03-16T09:37:28.119Z"}
+{"level":"info","message":"{\"msg\":\"ID Not found\"}","service":"user-service","timestamp":"2023-03-16T09:37:28.122Z"}
+{"level":"info","message":"/api/v1/role/","service":"user-service","timestamp":"2023-03-16T09:38:56.808Z"}
+{"level":"info","message":{"roleId":"6412e220eacf9ec5fb52cb02"},"service":"user-service","timestamp":"2023-03-16T09:38:56.808Z"}
+{"level":"info","message":{"data":{"acknowledged":true,"deletedCount":1},"msg":"Role deleted."},"service":"user-service","timestamp":"2023-03-16T09:38:57.205Z"}
+{"level":"info","message":"{\"msg\":\"Role deleted.\",\"data\":{\"acknowledged\":true,\"deletedCount\":1}}","service":"user-service","timestamp":"2023-03-16T09:38:57.206Z"}

@@ -1,0 +1,205 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T06:30:41.645Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T06:32:55.276Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T06:32:55.276Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-24T06:32:56.639Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-24T06:32:56.640Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T06:35:28.692Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T06:35:32.907Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T06:35:32.908Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-24T06:35:33.969Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-24T06:35:33.975Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:04:04.350Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:04:28.945Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:04:48.945Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:05:24.049Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:06:42.517Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:08:30.973Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:10:55.008Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:11:01.659Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:11:13.921Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:19:44.126Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:20:50.640Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T07:21:13.251Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:21:13.251Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:21:14.248Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:21:14.249Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:25:10.900Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T07:25:18.858Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:25:18.859Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:25:20.028Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:25:20.030Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:25:42.492Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:25:49.597Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T07:25:54.642Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:25:54.642Z"}
+{"level":"info","message":{"msg":"params is not defined"},"service":"user-service","timestamp":"2023-03-24T07:25:54.652Z"}
+{"level":"info","message":"{\"msg\":\"params is not defined\"}","service":"user-service","timestamp":"2023-03-24T07:25:54.655Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:26:15.514Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T07:26:19.223Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:26:19.223Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:26:22.428Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:26:22.429Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:33:13.440Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:35:29.583Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=null","service":"user-service","timestamp":"2023-03-24T07:35:36.756Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:35:36.756Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:35:37.850Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:35:37.852Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:37:22.439Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:37:22.439Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:37:23.440Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:37:23.453Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:37:42.865Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:37:46.808Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:37:46.808Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:37:47.844Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:37:47.847Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:38:14.819Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:38:17.650Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:38:17.650Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:38:20.529Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:38:20.530Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:38:31.113Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:38:57.105Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:38:57.105Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:38:58.467Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:38:58.468Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:40:50.195Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:41:27.130Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:41:57.033Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:42:05.611Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:42:05.611Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:42:06.513Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:42:06.514Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:44:33.811Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:44:36.653Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:44:36.653Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:44:37.530Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:44:37.531Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:45:27.422Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:45:33.832Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:45:33.832Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:45:34.683Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:45:34.684Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:46:03.431Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:46:51.294Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:47:42.753Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:47:56.834Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T07:48:11.785Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:48:11.786Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:48:12.913Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:48:12.914Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:51:24.375Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:51:36.530Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:51:36.531Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:51:38.498Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:51:38.499Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:52:31.944Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:52:38.074Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:52:38.075Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:52:39.240Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:52:39.241Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:53:16.832Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:53:19.456Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:53:19.456Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:53:24.355Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:53:24.356Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:53:33.734Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:54:18.660Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:54:22.416Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:54:22.417Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:54:25.964Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:54:25.966Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:54:53.622Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:54:57.677Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:54:57.677Z"}
+{"level":"info","message":{"msg":"url is not defined"},"service":"user-service","timestamp":"2023-03-24T07:55:01.321Z"}
+{"level":"info","message":"{\"msg\":\"url is not defined\"}","service":"user-service","timestamp":"2023-03-24T07:55:01.323Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:55:19.457Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:55:23.412Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:55:23.413Z"}
+{"level":"info","message":{"msg":"OK"},"service":"user-service","timestamp":"2023-03-24T07:55:25.796Z"}
+{"level":"info","message":"{\"msg\":\"OK\"}","service":"user-service","timestamp":"2023-03-24T07:55:25.797Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:56:42.017Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:56:49.486Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:56:54.441Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:56:54.441Z"}
+{"level":"info","message":{"msg":"Failed"},"service":"user-service","timestamp":"2023-03-24T07:56:55.257Z"}
+{"level":"info","message":"{\"msg\":\"Failed\"}","service":"user-service","timestamp":"2023-03-24T07:56:55.259Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:57:25.696Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:57:28.544Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:57:28.545Z"}
+{"level":"info","message":{"data":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"msg":"OK"},"service":"user-service","timestamp":"2023-03-24T07:57:29.332Z"}
+{"level":"info","message":"{\"msg\":\"OK\",\"data\":{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}}","service":"user-service","timestamp":"2023-03-24T07:57:29.334Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:58:44.813Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T07:59:07.780Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T07:59:10.688Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T07:59:10.689Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T07:59:13.011Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T07:59:13.012Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:17:14.324Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T09:17:21.256Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:17:21.257Z"}
+{"level":"info","message":{"data":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"msg":"OK"},"service":"user-service","timestamp":"2023-03-24T09:17:22.488Z"}
+{"level":"info","message":"{\"msg\":\"OK\",\"data\":{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}}","service":"user-service","timestamp":"2023-03-24T09:17:22.491Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:17:44.777Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=%22Null%22","service":"user-service","timestamp":"2023-03-24T09:17:49.095Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:17:49.096Z"}
+{"level":"info","message":{"data":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"msg":"OK"},"service":"user-service","timestamp":"2023-03-24T09:17:50.183Z"}
+{"level":"info","message":"{\"msg\":\"OK\",\"data\":{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}}","service":"user-service","timestamp":"2023-03-24T09:17:50.188Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:20:24.088Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:20:37.520Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:20:37.521Z"}
+{"level":"info","message":{"data":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"msg":"OK"},"service":"user-service","timestamp":"2023-03-24T09:20:38.695Z"}
+{"level":"info","message":"{\"msg\":\"OK\",\"data\":{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}}","service":"user-service","timestamp":"2023-03-24T09:20:38.697Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:21:15.130Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:21:23.472Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:21:23.473Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T09:21:24.916Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T09:21:24.918Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:24:00.115Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:24:05.781Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:24:05.782Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T09:24:07.000Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T09:24:07.001Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:24:22.634Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:24:37.785Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:24:42.016Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:24:42.016Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T09:24:42.921Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T09:24:42.924Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:28:00.542Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:28:08.007Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:28:08.008Z"}
+{"level":"info","message":{"msg":"Request failed with status code 400"},"service":"user-service","timestamp":"2023-03-24T09:28:09.028Z"}
+{"level":"info","message":"{\"msg\":\"Request failed with status code 400\"}","service":"user-service","timestamp":"2023-03-24T09:28:09.029Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T09:28:21.964Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T09:28:26.644Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T09:28:26.645Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-24T09:28:28.128Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-24T09:28:28.130Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:20:46.685Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:20:56.199Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:21:04.462Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T10:21:56.395Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T10:21:56.395Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-24T10:21:57.635Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-24T10:21:57.643Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:22:26.555Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:22:31.179Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:22:42.495Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T10:22:50.186Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T10:22:50.187Z"}
+{"level":"info","message":{"msg":"operationalCityType is not defined"},"service":"user-service","timestamp":"2023-03-24T10:22:50.205Z"}
+{"level":"info","message":"{\"msg\":\"operationalCityType is not defined\"}","service":"user-service","timestamp":"2023-03-24T10:22:50.208Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:23:08.449Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T10:23:12.244Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T10:23:12.244Z"}
+{"level":"info","message":{"dist":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"statusCode":"200","statusMessage":"SUCCESSFULLY OPERATED"},"service":"user-service","timestamp":"2023-03-24T10:23:14.566Z"}
+{"level":"info","message":"{\"statusCode\":\"200\",\"statusMessage\":\"SUCCESSFULLY OPERATED\",\"dist\":[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]}","service":"user-service","timestamp":"2023-03-24T10:23:14.568Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:24:01.386Z"}
+{"level":"info","message":"/api/v1/courier/operationalCities?operationalCityType=Null","service":"user-service","timestamp":"2023-03-24T10:24:14.689Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-03-24T10:24:14.689Z"}
+{"level":"info","message":[{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Lahore"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Islamabad"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Rawalpindi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Karachi"},{"countryName":"Pakistan","isDeliveryCity":true,"isPickupCity":true,"operationalCityName":"Faisalabad"}],"service":"user-service","timestamp":"2023-03-24T10:24:15.619Z"}
+{"level":"info","message":"[{\"operationalCityName\":\"Lahore\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Islamabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Rawalpindi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Karachi\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true},{\"operationalCityName\":\"Faisalabad\",\"countryName\":\"Pakistan\",\"isPickupCity\":true,\"isDeliveryCity\":true}]","service":"user-service","timestamp":"2023-03-24T10:24:15.622Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-24T10:24:29.936Z"}

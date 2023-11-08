@@ -1,0 +1,118 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T05:28:31.260Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a2a41a5b3114b59034aa57","service":"user-service","timestamp":"2023-01-27T05:30:32.728Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T05:30:32.728Z"}
+{"level":"info","message":{"msg":"Cannot read properties of null (reading 'variant')"},"service":"user-service","timestamp":"2023-01-27T05:30:33.001Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of null (reading 'variant')\"}","service":"user-service","timestamp":"2023-01-27T05:30:33.004Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a2a5ad5b3114b59034aa74","service":"user-service","timestamp":"2023-01-27T05:30:58.126Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T05:30:58.127Z"}
+{"level":"info","message":{"msg":"Cannot read properties of null (reading 'variant')"},"service":"user-service","timestamp":"2023-01-27T05:30:58.514Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of null (reading 'variant')\"}","service":"user-service","timestamp":"2023-01-27T05:30:58.515Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63ac18430e4de512de58f7e5","service":"user-service","timestamp":"2023-01-27T05:31:29.404Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T05:31:29.404Z"}
+{"level":"info","message":{"msg":"Cannot read properties of null (reading 'variant')"},"service":"user-service","timestamp":"2023-01-27T05:31:29.659Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of null (reading 'variant')\"}","service":"user-service","timestamp":"2023-01-27T05:31:29.660Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63b65fefe0e6c5564927430a","service":"user-service","timestamp":"2023-01-27T05:31:45.426Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T05:31:45.427Z"}
+{"level":"info","message":{"msg":"Cannot read properties of null (reading 'variant')"},"service":"user-service","timestamp":"2023-01-27T05:31:45.844Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of null (reading 'variant')\"}","service":"user-service","timestamp":"2023-01-27T05:31:45.845Z"}
+{"level":"info","message":"/api/v1/favourites/","service":"user-service","timestamp":"2023-01-27T05:33:45.923Z"}
+{"level":"info","message":{"customerId":"63a45415bfb9c56c1f94d45d","productId":"639c0393a1451a380fb3d961"},"service":"user-service","timestamp":"2023-01-27T05:33:45.923Z"}
+{"level":"info","message":{"data":"Favourite added","msg":"favourite added."},"service":"user-service","timestamp":"2023-01-27T05:33:46.253Z"}
+{"level":"info","message":"{\"msg\":\"favourite added.\",\"data\":\"Favourite added\"}","service":"user-service","timestamp":"2023-01-27T05:33:46.253Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a45415bfb9c56c1f94d45d","service":"user-service","timestamp":"2023-01-27T05:33:57.591Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T05:33:57.591Z"}
+{"level":"info","message":{"data":[{"_id":"63d3623a11450b1aea79c934","customer":"63a45415bfb9c56c1f94d45d","product":{"_id":"639c0393a1451a380fb3d961","actualPrice":400,"isFavourite":"true","name":"toys CNS","thumbnail":"images/1671168915594.png"}}],"msg":"Favourites"},"service":"user-service","timestamp":"2023-01-27T05:33:57.920Z"}
+{"level":"info","message":"{\"msg\":\"Favourites\",\"data\":[{\"_id\":\"63d3623a11450b1aea79c934\",\"customer\":\"63a45415bfb9c56c1f94d45d\",\"product\":{\"_id\":\"639c0393a1451a380fb3d961\",\"name\":\"toys CNS\",\"thumbnail\":\"images/1671168915594.png\",\"actualPrice\":400,\"isFavourite\":\"true\"}}]}","service":"user-service","timestamp":"2023-01-27T05:33:57.921Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T05:54:33.710Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T06:01:26.782Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-27T06:01:58.310Z"}
+{"level":"info","message":{"userId":"63a45415bfb9c56c1f94d45d"},"service":"user-service","timestamp":"2023-01-27T06:01:58.310Z"}
+{"level":"info","message":{"msg":"connect ETIMEDOUT 10.0.6.171:7070"},"service":"user-service","timestamp":"2023-01-27T06:02:19.785Z"}
+{"level":"info","message":"{\"msg\":\"connect ETIMEDOUT 10.0.6.171:7070\"}","service":"user-service","timestamp":"2023-01-27T06:02:19.788Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a45415bfb9c56c1f94d45d","service":"user-service","timestamp":"2023-01-27T06:03:57.207Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T06:03:57.207Z"}
+{"level":"info","message":{"data":[{"_id":"63d3623a11450b1aea79c934","customer":"63a45415bfb9c56c1f94d45d","product":{"_id":"639c0393a1451a380fb3d961","actualPrice":400,"isFavourite":true,"name":"toys CNS","thumbnail":"images/1671168915594.png"}},{"_id":"63d3623a11450b1aea79c934","customer":"63a45415bfb9c56c1f94d45d","product":{"_id":"639c0393a1451a380fb3d961","actualPrice":900,"isFavourite":true,"name":"toys CNS","thumbnail":"images/1671168915594.png"}}],"msg":"Favourites"},"service":"user-service","timestamp":"2023-01-27T06:03:57.386Z"}
+{"level":"info","message":"{\"msg\":\"Favourites\",\"data\":[{\"_id\":\"63d3623a11450b1aea79c934\",\"customer\":\"63a45415bfb9c56c1f94d45d\",\"product\":{\"_id\":\"639c0393a1451a380fb3d961\",\"name\":\"toys CNS\",\"thumbnail\":\"images/1671168915594.png\",\"actualPrice\":400,\"isFavourite\":true}},{\"_id\":\"63d3623a11450b1aea79c934\",\"customer\":\"63a45415bfb9c56c1f94d45d\",\"product\":{\"_id\":\"639c0393a1451a380fb3d961\",\"name\":\"toys CNS\",\"thumbnail\":\"images/1671168915594.png\",\"actualPrice\":900,\"isFavourite\":true}}]}","service":"user-service","timestamp":"2023-01-27T06:03:57.387Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T06:11:45.320Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a45415bfb9c56c1f94d45d","service":"user-service","timestamp":"2023-01-27T06:11:50.004Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T06:11:50.004Z"}
+{"level":"info","message":{"msg":"Arguments must be aggregate pipeline operators"},"service":"user-service","timestamp":"2023-01-27T06:11:50.012Z"}
+{"level":"info","message":"{\"msg\":\"Arguments must be aggregate pipeline operators\"}","service":"user-service","timestamp":"2023-01-27T06:11:50.013Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T06:12:45.779Z"}
+{"level":"info","message":"/api/v1/favourites/customer?customerId=63a45415bfb9c56c1f94d45d","service":"user-service","timestamp":"2023-01-27T06:12:49.059Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T06:12:49.059Z"}
+{"level":"info","message":{"data":[{"_id":"63d3623a11450b1aea79c934","customer":"63a45415bfb9c56c1f94d45d","product":{"_id":"639c0393a1451a380fb3d961","actualPrice":400,"isFavourite":true,"name":"toys CNS","thumbnail":"images/1671168915594.png"}}],"msg":"Favourites"},"service":"user-service","timestamp":"2023-01-27T06:12:49.173Z"}
+{"level":"info","message":"{\"msg\":\"Favourites\",\"data\":[{\"_id\":\"63d3623a11450b1aea79c934\",\"customer\":\"63a45415bfb9c56c1f94d45d\",\"product\":{\"_id\":\"639c0393a1451a380fb3d961\",\"name\":\"toys CNS\",\"thumbnail\":\"images/1671168915594.png\",\"actualPrice\":400,\"isFavourite\":true}}]}","service":"user-service","timestamp":"2023-01-27T06:12:49.175Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T07:20:08.631Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/payment","service":"user-service","timestamp":"2023-01-27T07:20:15.548Z"}
+{"level":"info","message":{"amount":500,"otp":"33611","userId":"63a45415bfb9c56c1f94d45d"},"service":"user-service","timestamp":"2023-01-27T07:20:15.549Z"}
+{"level":"info","message":{"msg":"connect ETIMEDOUT 10.0.6.171:7070"},"service":"user-service","timestamp":"2023-01-27T07:20:37.341Z"}
+{"level":"info","message":"{\"msg\":\"connect ETIMEDOUT 10.0.6.171:7070\"}","service":"user-service","timestamp":"2023-01-27T07:20:37.342Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T10:07:21.859Z"}
+{"level":"info","message":"/api/v1/order/orderTracking?orderId=65593","service":"user-service","timestamp":"2023-01-27T10:07:55.805Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T10:07:55.806Z"}
+{"level":"info","message":{"data":[{"_id":"63aa8a127cd6af48a6145d56","localTime":"2022-12-27 05:36:53","orderId":"65593","status":"Confirmed"},{"_id":"63aa8a347cd6af48a6145d88","localTime":"2022-12-27 05:36:53","orderId":"65593","status":"Delivered"},{"_id":"63bfd42bfb18ee8b508a8987","localTime":"2023-01-11 19:00:00","orderId":"65593","status":"Delivered"}],"msg":"Orders Track History"},"service":"user-service","timestamp":"2023-01-27T10:07:55.961Z"}
+{"level":"info","message":"{\"msg\":\"Orders Track History\",\"data\":[{\"_id\":\"63aa8a127cd6af48a6145d56\",\"orderId\":\"65593\",\"localTime\":\"2022-12-27 05:36:53\",\"status\":\"Confirmed\"},{\"_id\":\"63aa8a347cd6af48a6145d88\",\"orderId\":\"65593\",\"localTime\":\"2022-12-27 05:36:53\",\"status\":\"Delivered\"},{\"_id\":\"63bfd42bfb18ee8b508a8987\",\"orderId\":\"65593\",\"localTime\":\"2023-01-11 19:00:00\",\"status\":\"Delivered\"}]}","service":"user-service","timestamp":"2023-01-27T10:07:55.964Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T10:08:21.682Z"}
+{"level":"info","message":"/api/v1/order/orderTracking?orderId=65593","service":"user-service","timestamp":"2023-01-27T10:08:29.992Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T10:08:29.993Z"}
+{"level":"info","message":{"data":[{"_id":"63aa8a127cd6af48a6145d56","orderId":"65593","status":"Confirmed","time":"2022-12-27 05:36:53"},{"_id":"63aa8a347cd6af48a6145d88","orderId":"65593","status":"Delivered","time":"2022-12-27 05:36:53"},{"_id":"63bfd42bfb18ee8b508a8987","orderId":"65593","status":"Delivered","time":"2023-01-11 19:00:00"}],"msg":"Orders Track History"},"service":"user-service","timestamp":"2023-01-27T10:08:30.117Z"}
+{"level":"info","message":"{\"msg\":\"Orders Track History\",\"data\":[{\"_id\":\"63aa8a127cd6af48a6145d56\",\"orderId\":\"65593\",\"time\":\"2022-12-27 05:36:53\",\"status\":\"Confirmed\"},{\"_id\":\"63aa8a347cd6af48a6145d88\",\"orderId\":\"65593\",\"time\":\"2022-12-27 05:36:53\",\"status\":\"Delivered\"},{\"_id\":\"63bfd42bfb18ee8b508a8987\",\"orderId\":\"65593\",\"time\":\"2023-01-11 19:00:00\",\"status\":\"Delivered\"}]}","service":"user-service","timestamp":"2023-01-27T10:08:30.120Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T10:10:52.035Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T10:10:54.203Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T10:10:54.204Z"}
+{"level":"info","message":{"data":{"_id":"63cf8384dc623530eac5b58e","orderId":"42537","placedOn":"2023-01-23T19:00:00.000Z","product":[{"price":100,"productCategory":"child toys","productId":"639c0393a1451a380fb3d961","productName":"toys CNS","productPrice":100,"productQuantity":1,"quantity":1,"sku":"P-217"}],"productThumbnail":"images/1671168915594.png","status":"Confirmed","trackingId":"ZStore-33615"},"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T10:10:55.232Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":{\"_id\":\"63cf8384dc623530eac5b58e\",\"product\":[{\"productId\":\"639c0393a1451a380fb3d961\",\"quantity\":1,\"price\":100,\"sku\":\"P-217\",\"productCategory\":\"child toys\",\"productName\":\"toys CNS\",\"productQuantity\":1,\"productPrice\":100}],\"status\":\"Confirmed\",\"orderId\":\"42537\",\"trackingId\":\"ZStore-33615\",\"placedOn\":\"2023-01-23T19:00:00.000Z\",\"productThumbnail\":\"images/1671168915594.png\"}}","service":"user-service","timestamp":"2023-01-27T10:10:55.233Z"}
+{"level":"info","message":"/api/v1/promotion/getOnePromotion?promotionId=63d3bc208bb7b07fec39b3d3","service":"user-service","timestamp":"2023-01-27T12:05:11.813Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T12:05:11.820Z"}
+{"level":"info","message":{"data":{"_id":"63d3bc208bb7b07fec39b3d3","campaignId":"63d3bb1e8bb7b07fec39b371","discount":10,"expireDate":"2023-01-26T19:00:00.000Z","product":[{"_id":"63d3ba978bb7b07fec39b342","name":"Programming books"}],"status":"active","subcategory":{"_id":"63d3ba4c8bb7b07fec39b31a","name":"Programming books"}},"msg":"promotion"},"service":"user-service","timestamp":"2023-01-27T12:05:12.142Z"}
+{"level":"info","message":"{\"msg\":\"promotion\",\"data\":{\"_id\":\"63d3bc208bb7b07fec39b3d3\",\"campaignId\":\"63d3bb1e8bb7b07fec39b371\",\"product\":[{\"_id\":\"63d3ba978bb7b07fec39b342\",\"name\":\"Programming books\"}],\"subcategory\":{\"_id\":\"63d3ba4c8bb7b07fec39b31a\",\"name\":\"Programming books\"},\"discount\":10,\"expireDate\":\"2023-01-26T19:00:00.000Z\",\"status\":\"active\"}}","service":"user-service","timestamp":"2023-01-27T12:05:12.147Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:22:08.344Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63a97b08865f0dbe795a8418","service":"user-service","timestamp":"2023-01-27T17:22:16.575Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:22:16.577Z"}
+{"level":"info","message":{"data":null,"msg":"Customer Order History Detail Not Found"},"service":"user-service","timestamp":"2023-01-27T17:22:17.014Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail Not Found\",\"data\":null}","service":"user-service","timestamp":"2023-01-27T17:22:17.018Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:22:37.275Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:22:37.275Z"}
+{"level":"info","message":{"data":{"_id":"63cf8384dc623530eac5b58e","orderId":"42537","placedOn":"2023-01-23T19:00:00.000Z","product":[{"price":100,"productCategory":"child toys","productId":"639c0393a1451a380fb3d961","productName":"toys CNS","productPrice":100,"productQuantity":1,"quantity":1,"sku":"P-217"}],"productThumbnail":"images/1671168915594.png","status":"Confirmed","trackingId":"ZStore-33615"},"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:22:39.502Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":{\"_id\":\"63cf8384dc623530eac5b58e\",\"product\":[{\"productId\":\"639c0393a1451a380fb3d961\",\"quantity\":1,\"price\":100,\"sku\":\"P-217\",\"productCategory\":\"child toys\",\"productName\":\"toys CNS\",\"productQuantity\":1,\"productPrice\":100}],\"status\":\"Confirmed\",\"orderId\":\"42537\",\"trackingId\":\"ZStore-33615\",\"placedOn\":\"2023-01-23T19:00:00.000Z\",\"productThumbnail\":\"images/1671168915594.png\"}}","service":"user-service","timestamp":"2023-01-27T17:22:39.504Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:34:24.393Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:35:13.595Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:35:13.595Z"}
+{"level":"info","message":{"data":[],"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:35:13.992Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":[]}","service":"user-service","timestamp":"2023-01-27T17:35:13.994Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:35:53.877Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:35:59.490Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:35:59.490Z"}
+{"level":"info","message":{"data":[],"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:35:59.634Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":[]}","service":"user-service","timestamp":"2023-01-27T17:35:59.636Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:38:13.779Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:38:17.089Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:38:17.089Z"}
+{"level":"info","message":{"data":{"_id":"63cf8384dc623530eac5b58e","orderId":"42537","placedOn":"2023-01-23T19:00:00.000Z","product":[{"price":100,"productCategory":"child toys","productId":"639c0393a1451a380fb3d961","productName":"toys CNS","productPrice":100,"productQuantity":1,"quantity":1,"sku":"P-217"}],"productThumbnail":"images/1671168915594.png","status":"Confirmed","trackingId":"ZStore-33615"},"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:38:19.105Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":{\"_id\":\"63cf8384dc623530eac5b58e\",\"product\":[{\"productId\":\"639c0393a1451a380fb3d961\",\"quantity\":1,\"price\":100,\"sku\":\"P-217\",\"productCategory\":\"child toys\",\"productName\":\"toys CNS\",\"productQuantity\":1,\"productPrice\":100}],\"status\":\"Confirmed\",\"orderId\":\"42537\",\"trackingId\":\"ZStore-33615\",\"placedOn\":\"2023-01-23T19:00:00.000Z\",\"productThumbnail\":\"images/1671168915594.png\"}}","service":"user-service","timestamp":"2023-01-27T17:38:19.106Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:41:45.092Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:42:01.793Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:42:01.794Z"}
+{"level":"info","message":{"msg":"ObjectId is not defined"},"service":"user-service","timestamp":"2023-01-27T17:42:01.807Z"}
+{"level":"info","message":"{\"msg\":\"ObjectId is not defined\"}","service":"user-service","timestamp":"2023-01-27T17:42:01.808Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:42:28.304Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:42:32.710Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:42:32.710Z"}
+{"level":"info","message":{"data":[],"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:42:34.197Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":[]}","service":"user-service","timestamp":"2023-01-27T17:42:34.198Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:42:37.607Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:42:37.607Z"}
+{"level":"info","message":{"data":[],"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:42:37.925Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":[]}","service":"user-service","timestamp":"2023-01-27T17:42:37.927Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:44:28.133Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:44:32.441Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:44:32.441Z"}
+{"level":"info","message":{"data":[],"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:44:40.293Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":[]}","service":"user-service","timestamp":"2023-01-27T17:44:40.295Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:45:01.841Z"}
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-01-27T17:45:52.446Z"}
+{"level":"info","message":"/api/v1/order/orderHistoryDetail?orderId=63cf8384dc623530eac5b58e","service":"user-service","timestamp":"2023-01-27T17:45:56.796Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-27T17:45:56.796Z"}
+{"level":"info","message":{"data":{"_id":"63cf8384dc623530eac5b58e","orderId":"42537","placedOn":"2023-01-23T19:00:00.000Z","product":[{"price":100,"productCategory":"child toys","productId":"639c0393a1451a380fb3d961","productName":"toys CNS","productPrice":100,"productQuantity":1,"quantity":1,"sku":"P-217"}],"productThumbnail":"images/1671168915594.png","status":"Confirmed","trackingId":"ZStore-33615"},"msg":"Customer Order History Detail"},"service":"user-service","timestamp":"2023-01-27T17:45:57.920Z"}
+{"level":"info","message":"{\"msg\":\"Customer Order History Detail\",\"data\":{\"_id\":\"63cf8384dc623530eac5b58e\",\"product\":[{\"productId\":\"639c0393a1451a380fb3d961\",\"quantity\":1,\"price\":100,\"sku\":\"P-217\",\"productCategory\":\"child toys\",\"productName\":\"toys CNS\",\"productQuantity\":1,\"productPrice\":100}],\"status\":\"Confirmed\",\"orderId\":\"42537\",\"trackingId\":\"ZStore-33615\",\"placedOn\":\"2023-01-23T19:00:00.000Z\",\"productThumbnail\":\"images/1671168915594.png\"}}","service":"user-service","timestamp":"2023-01-27T17:45:57.924Z"}

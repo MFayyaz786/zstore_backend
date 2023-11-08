@@ -1,0 +1,29 @@
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-06T11:23:02.989Z"}
+{"deliveryPartnerId":"63aa7d9e2754b91c16e25b0b","level":"info","message":"i reject this order ","orderId":"64269","orderStatus":"63aa7de42754b91c16e25b17","service":"user-service","timestamp":"2023-01-06T11:23:02.993Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-06T11:23:03.686Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-06T11:23:03.688Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-06T11:25:53.680Z"}
+{"deliveryPartnerId":"63aa7d9e2754b91c16e25b0b","level":"info","message":"i reject this order ","orderId":"64269","orderStatus":"63aa7de42754b91c16e25b17","service":"user-service","timestamp":"2023-01-06T11:25:53.681Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-06T11:25:54.149Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-06T11:25:54.150Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-01-06T12:03:48.029Z"}
+{"level":"info","message":{"address":"Gulberg","channel":"Web View","contact":"03315701354","couponCode":"","customer":"63a2b0b8153cfe5f98a05aff","paymentMode":"cod","product":[{"price":900,"productId":"639bfeeea1451a380fb3d906","quantity":1,"size":"","sku":"P-217200ml"}],"redeemValue":100,"totalAmount":550,"totalBill":"600"},"service":"user-service","timestamp":"2023-01-06T12:03:48.035Z"}
+{"level":"info","message":{"data":{"orderId":"69028","trackingId":"ZStore-83863"},"msg":"Order Placed Successfully."},"service":"user-service","timestamp":"2023-01-06T12:03:52.800Z"}
+{"level":"info","message":"{\"msg\":\"Order Placed Successfully.\",\"data\":{\"trackingId\":\"ZStore-83863\",\"orderId\":\"69028\"}}","service":"user-service","timestamp":"2023-01-06T12:03:52.802Z"}
+{"level":"info","message":"Request failed with status code 400","service":"user-service","timestamp":"2023-01-06T12:03:53.622Z"}
+{"level":"info","message":{"msg":"Cannot set headers after they are sent to the client"},"service":"user-service","timestamp":"2023-01-06T12:03:53.634Z"}
+{"level":"info","message":"{\"msg\":\"Cannot set headers after they are sent to the client\"}","service":"user-service","timestamp":"2023-01-06T12:03:53.635Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-01-06T12:04:15.254Z"}
+{"level":"info","message":{"address":"Gulberg","channel":"Web View","contact":"03315701354","couponCode":"","customer":"63a2b0b8153cfe5f98a05aff","paymentMode":"cod","product":[{"price":900,"productId":"639bfeeea1451a380fb3d906","quantity":1,"size":"","sku":"P-217200ml"}],"redeemValue":100,"totalAmount":550,"totalBill":"600"},"service":"user-service","timestamp":"2023-01-06T12:04:15.255Z"}
+{"level":"info","message":{"data":{"orderId":"59776","trackingId":"ZStore-26705"},"msg":"Order Placed Successfully."},"service":"user-service","timestamp":"2023-01-06T12:04:19.828Z"}
+{"level":"info","message":"{\"msg\":\"Order Placed Successfully.\",\"data\":{\"trackingId\":\"ZStore-26705\",\"orderId\":\"59776\"}}","service":"user-service","timestamp":"2023-01-06T12:04:19.830Z"}
+{"level":"info","message":"Request failed with status code 400","service":"user-service","timestamp":"2023-01-06T12:04:20.441Z"}
+{"level":"info","message":{"msg":"Cannot set headers after they are sent to the client"},"service":"user-service","timestamp":"2023-01-06T12:04:20.448Z"}
+{"level":"info","message":"{\"msg\":\"Cannot set headers after they are sent to the client\"}","service":"user-service","timestamp":"2023-01-06T12:04:20.449Z"}
+{"level":"info","message":"/api/v1/order/","service":"user-service","timestamp":"2023-01-06T12:09:09.229Z"}
+{"level":"info","message":{"address":"Gulberg","channel":"Web View","contact":"03315701354","couponCode":"","customer":"63a2b0b8153cfe5f98a05aff","paymentMode":"cod","product":[{"price":900,"productId":"639bfeeea1451a380fb3d906","quantity":1,"size":"","sku":"P-217200ml"}],"redeemValue":150,"totalAmount":550,"totalBill":"600"},"service":"user-service","timestamp":"2023-01-06T12:09:09.234Z"}
+{"level":"info","message":{"data":{"orderId":"02206","trackingId":"ZStore-04746"},"msg":"Order Placed Successfully."},"service":"user-service","timestamp":"2023-01-06T12:09:13.725Z"}
+{"level":"info","message":"{\"msg\":\"Order Placed Successfully.\",\"data\":{\"trackingId\":\"ZStore-04746\",\"orderId\":\"02206\"}}","service":"user-service","timestamp":"2023-01-06T12:09:13.726Z"}
+{"level":"info","message":"Request failed with status code 400","service":"user-service","timestamp":"2023-01-06T12:09:14.545Z"}
+{"level":"info","message":{"msg":"Cannot set headers after they are sent to the client"},"service":"user-service","timestamp":"2023-01-06T12:09:14.557Z"}
+{"level":"info","message":"{\"msg\":\"Cannot set headers after they are sent to the client\"}","service":"user-service","timestamp":"2023-01-06T12:09:14.558Z"}

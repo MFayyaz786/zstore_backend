@@ -1,0 +1,184 @@
+{"level":"info","message":"/api/v1/orderStatus/","service":"user-service","timestamp":"2023-01-09T05:50:37.520Z"}
+{"level":"info","message":{"orderStatusName":"Returned"},"service":"user-service","timestamp":"2023-01-09T05:50:37.521Z"}
+{"level":"info","message":{"data":{"__v":0,"_id":"63bbab2dbc627d5e04dbf113","createdAt":"2023-01-09T05:50:37.530Z","orderStatusName":"Returned","updatedAt":"2023-01-09T05:50:37.530Z"},"msg":"Status added."},"service":"user-service","timestamp":"2023-01-09T05:50:37.713Z"}
+{"level":"info","message":"{\"msg\":\"Status added.\",\"data\":{\"orderStatusName\":\"Returned\",\"_id\":\"63bbab2dbc627d5e04dbf113\",\"createdAt\":\"2023-01-09T05:50:37.530Z\",\"updatedAt\":\"2023-01-09T05:50:37.530Z\",\"__v\":0}}","service":"user-service","timestamp":"2023-01-09T05:50:37.716Z"}
+{"level":"info","message":"/api/v1/testRouter/updateOrder","service":"user-service","timestamp":"2023-01-09T07:54:18.636Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T07:54:18.640Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-09T07:54:18.643Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-09T07:54:18.644Z"}
+{"level":"info","message":"/api/v1/test/updateOrder","service":"user-service","timestamp":"2023-01-09T07:55:26.276Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T07:55:26.276Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-09T07:55:26.280Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-09T07:55:26.281Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T07:55:48.322Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T07:55:48.322Z"}
+{"level":"info","message":{"msg":"not updated"},"service":"user-service","timestamp":"2023-01-09T07:55:48.539Z"}
+{"level":"info","message":"{\"msg\":\"not updated\"}","service":"user-service","timestamp":"2023-01-09T07:55:48.540Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T07:56:58.780Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T07:56:58.783Z"}
+{"level":"info","message":{"msg":"not updated"},"service":"user-service","timestamp":"2023-01-09T07:57:00.756Z"}
+{"level":"info","message":"{\"msg\":\"not updated\"}","service":"user-service","timestamp":"2023-01-09T07:57:00.758Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T09:08:42.261Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T09:08:42.267Z"}
+{"level":"info","message":{"msg":"not updated"},"service":"user-service","timestamp":"2023-01-09T09:08:42.419Z"}
+{"level":"info","message":"{\"msg\":\"not updated\"}","service":"user-service","timestamp":"2023-01-09T09:08:42.421Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T09:09:03.993Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T09:09:03.995Z"}
+{"level":"info","message":{"msg":"not updated"},"service":"user-service","timestamp":"2023-01-09T09:09:05.744Z"}
+{"level":"info","message":"{\"msg\":\"not updated\"}","service":"user-service","timestamp":"2023-01-09T09:09:05.745Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T09:43:56.948Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T09:43:56.954Z"}
+{"level":"info","message":{"msg":"not updated"},"service":"user-service","timestamp":"2023-01-09T09:43:57.096Z"}
+{"level":"info","message":"{\"msg\":\"not updated\"}","service":"user-service","timestamp":"2023-01-09T09:43:57.098Z"}
+{"level":"info","message":"/api/v1/returnOrder/details?orderId=63a97b01865f0dbe795a840b","service":"user-service","timestamp":"2023-01-09T09:45:02.926Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-09T09:45:02.927Z"}
+{"level":"info","message":{"data":{"_id":"63baee54d3785cda735cc212","exchangeReason":" i want to change","images":["images/1673195092120.png"],"isOrderReturn":false,"orderId":{"_id":"63a97b01865f0dbe795a840b","address":"Gulberg","contact":3315701354,"customer":{"_id":"63a2b0b8153cfe5f98a05aff","firstName":"fayyaz","lastName":"danish"},"orderId":"21601","product":[{"price":900,"productId":{"_id":"639bfeeea1451a380fb3d906","category":{"_id":"63a286cf85a90af92b260677","name":"iron "},"name":"Perfume","subcategory":{"_id":"63a2878785a90af92b260681","name":"lower wear"}},"quantity":1}]},"returnProduct":[{"productId":{"_id":"639bfeeea1451a380fb3d906","name":"Perfume"}}],"shipmentType":"pickup"},"msg":"Order Details"},"service":"user-service","timestamp":"2023-01-09T09:45:03.624Z"}
+{"level":"info","message":"{\"msg\":\"Order Details\",\"data\":{\"_id\":\"63baee54d3785cda735cc212\",\"orderId\":{\"_id\":\"63a97b01865f0dbe795a840b\",\"customer\":{\"_id\":\"63a2b0b8153cfe5f98a05aff\",\"firstName\":\"fayyaz\",\"lastName\":\"danish\"},\"product\":[{\"productId\":{\"_id\":\"639bfeeea1451a380fb3d906\",\"category\":{\"_id\":\"63a286cf85a90af92b260677\",\"name\":\"iron \"},\"subcategory\":{\"_id\":\"63a2878785a90af92b260681\",\"name\":\"lower wear\"},\"name\":\"Perfume\"},\"quantity\":1,\"price\":900}],\"address\":\"Gulberg\",\"contact\":3315701354,\"orderId\":\"21601\"},\"isOrderReturn\":false,\"shipmentType\":\"pickup\",\"returnProduct\":[{\"productId\":{\"_id\":\"639bfeeea1451a380fb3d906\",\"name\":\"Perfume\"}}],\"exchangeReason\":\" i want to change\",\"images\":[\"images/1673195092120.png\"]}}","service":"user-service","timestamp":"2023-01-09T09:45:03.634Z"}
+{"level":"info","message":"/api/v1/returnOrder/details?orderId=63a97b01865f0dbe795a840b","service":"user-service","timestamp":"2023-01-09T09:47:46.400Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-09T09:47:46.405Z"}
+{"level":"info","message":{"data":{"_id":"63baee54d3785cda735cc212","exchangeReason":" i want to change","images":["images/1673195092120.png"],"isOrderReturn":false,"orderId":{"_id":"63a97b01865f0dbe795a840b","address":"Gulberg","contact":3315701354,"customer":{"_id":"63a2b0b8153cfe5f98a05aff","firstName":"fayyaz","lastName":"danish"},"orderId":"21601","product":[{"price":900,"productId":{"_id":"639bfeeea1451a380fb3d906","category":{"_id":"63a286cf85a90af92b260677","name":"iron "},"name":"Perfume","subcategory":{"_id":"63a2878785a90af92b260681","name":"lower wear"}},"quantity":1}]},"returnProduct":[{"productId":{"_id":"639bfeeea1451a380fb3d906","name":"Perfume"}}],"shipmentType":"pickup"},"msg":"Order Details"},"service":"user-service","timestamp":"2023-01-09T09:47:47.061Z"}
+{"level":"info","message":"{\"msg\":\"Order Details\",\"data\":{\"_id\":\"63baee54d3785cda735cc212\",\"orderId\":{\"_id\":\"63a97b01865f0dbe795a840b\",\"customer\":{\"_id\":\"63a2b0b8153cfe5f98a05aff\",\"firstName\":\"fayyaz\",\"lastName\":\"danish\"},\"product\":[{\"productId\":{\"_id\":\"639bfeeea1451a380fb3d906\",\"category\":{\"_id\":\"63a286cf85a90af92b260677\",\"name\":\"iron \"},\"subcategory\":{\"_id\":\"63a2878785a90af92b260681\",\"name\":\"lower wear\"},\"name\":\"Perfume\"},\"quantity\":1,\"price\":900}],\"address\":\"Gulberg\",\"contact\":3315701354,\"orderId\":\"21601\"},\"isOrderReturn\":false,\"shipmentType\":\"pickup\",\"returnProduct\":[{\"productId\":{\"_id\":\"639bfeeea1451a380fb3d906\",\"name\":\"Perfume\"}}],\"exchangeReason\":\" i want to change\",\"images\":[\"images/1673195092120.png\"]}}","service":"user-service","timestamp":"2023-01-09T09:47:47.066Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T09:47:51.317Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T09:47:51.318Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T09:47:51.462Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T09:47:51.463Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T09:58:53.584Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902de61b25bc89f5dab375"},"service":"user-service","timestamp":"2023-01-09T09:58:53.586Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T09:58:53.716Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T09:58:53.717Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:01:24.632Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63a5a3151d65602c033aa709"},"service":"user-service","timestamp":"2023-01-09T10:01:24.634Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:01:24.777Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:01:24.780Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:02:14.855Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63a5a3151d65602c033aa709"},"service":"user-service","timestamp":"2023-01-09T10:02:14.860Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:02:15.006Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:02:15.008Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:09:50.117Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63a5a3151d65602c033aa709"},"service":"user-service","timestamp":"2023-01-09T10:09:50.123Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:09:50.270Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:09:50.273Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:11:03.549Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902c0e1b25bc89f5dab352"},"service":"user-service","timestamp":"2023-01-09T10:11:03.549Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:11:03.672Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:11:03.675Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:36:26.715Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902c0e1b25bc89f5dab352"},"service":"user-service","timestamp":"2023-01-09T10:36:26.716Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:36:26.836Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:36:26.837Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:37:15.156Z"}
+{"level":"info","message":{"oderId":"63a5a3151d65602c033aa708","productId":"63902c0e1b25bc89f5dab352"},"service":"user-service","timestamp":"2023-01-09T10:37:15.161Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:37:15.299Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":0,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":0}}","service":"user-service","timestamp":"2023-01-09T10:37:15.301Z"}
+{"level":"info","message":"/api/v1/test/orderUpdate","service":"user-service","timestamp":"2023-01-09T10:37:48.976Z"}
+{"level":"info","message":{"orderId":"63a5a3151d65602c033aa708","productId":"63902c0e1b25bc89f5dab352"},"service":"user-service","timestamp":"2023-01-09T10:37:48.976Z"}
+{"level":"info","message":{"date":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null},"msg":"update"},"service":"user-service","timestamp":"2023-01-09T10:37:49.098Z"}
+{"level":"info","message":"{\"msg\":\"update\",\"date\":{\"acknowledged\":true,\"modifiedCount\":1,\"upsertedId\":null,\"upsertedCount\":0,\"matchedCount\":1}}","service":"user-service","timestamp":"2023-01-09T10:37:49.100Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:36:19.998Z"}
+{"deliveryPartnerId":"","level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","orderStatus":"Returned","service":"user-service","timestamp":"2023-01-09T11:36:20.003Z"}
+{"level":"info","message":{"msg":"Cannot read properties of null (reading 'customer')"},"service":"user-service","timestamp":"2023-01-09T11:36:20.345Z"}
+{"level":"info","message":"{\"msg\":\"Cannot read properties of null (reading 'customer')\"}","service":"user-service","timestamp":"2023-01-09T11:36:20.347Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:38:05.484Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:38:05.484Z"}
+{"level":"info","message":{"msg":"Cast to ObjectId failed for value \"Returned\" (type string) at path \"_id\" for model \"Order\""},"service":"user-service","timestamp":"2023-01-09T11:38:05.759Z"}
+{"level":"info","message":"{\"msg\":\"Cast to ObjectId failed for value \\\"Returned\\\" (type string) at path \\\"_id\\\" for model \\\"Order\\\"\"}","service":"user-service","timestamp":"2023-01-09T11:38:05.761Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:39:34.523Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:39:34.525Z"}
+{"level":"info","message":{"msg":"Cast to ObjectId failed for value \"Returned\" (type string) at path \"_id\" for model \"Order\""},"service":"user-service","timestamp":"2023-01-09T11:39:34.706Z"}
+{"level":"info","message":"{\"msg\":\"Cast to ObjectId failed for value \\\"Returned\\\" (type string) at path \\\"_id\\\" for model \\\"Order\\\"\"}","service":"user-service","timestamp":"2023-01-09T11:39:34.709Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:40:34.145Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:40:34.152Z"}
+{"level":"info","message":{"msg":"deliveryPartner is not defined"},"service":"user-service","timestamp":"2023-01-09T11:40:40.945Z"}
+{"level":"info","message":"{\"msg\":\"deliveryPartner is not defined\"}","service":"user-service","timestamp":"2023-01-09T11:40:40.947Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:45:28.135Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:45:28.139Z"}
+{"level":"info","message":{"msg":"OrderLog validation failed: deliveryPartner: Cast to ObjectId failed for value \"\" (type string) at path \"deliveryPartner\" because of \"BSONTypeError\""},"service":"user-service","timestamp":"2023-01-09T11:45:33.517Z"}
+{"level":"info","message":"{\"msg\":\"OrderLog validation failed: deliveryPartner: Cast to ObjectId failed for value \\\"\\\" (type string) at path \\\"deliveryPartner\\\" because of \\\"BSONTypeError\\\"\"}","service":"user-service","timestamp":"2023-01-09T11:45:33.520Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:49:46.207Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:49:46.211Z"}
+{"level":"info","message":{"msg":"deliveryPartner is not defined"},"service":"user-service","timestamp":"2023-01-09T11:49:51.250Z"}
+{"level":"info","message":"{\"msg\":\"deliveryPartner is not defined\"}","service":"user-service","timestamp":"2023-01-09T11:49:51.253Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:53:06.152Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:53:06.154Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T11:53:13.195Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T11:53:13.198Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:54:34.193Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:54:34.198Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T11:54:40.144Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T11:54:40.147Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T11:55:36.728Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T11:55:36.736Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T11:55:41.824Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T11:55:41.826Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:08:20.435Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T12:08:20.440Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:08:26.709Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:08:26.711Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:10:00.658Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T12:10:00.663Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:10:06.265Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:10:06.267Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:21:32.561Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T12:21:32.565Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:21:38.693Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:21:38.694Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:22:43.222Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b01865f0dbe795a840b","service":"user-service","status":"Returned","timestamp":"2023-01-09T12:22:43.223Z"}
+{"level":"info","message":{"msg":"This Order not Returned"},"service":"user-service","timestamp":"2023-01-09T12:22:43.470Z"}
+{"level":"info","message":"{\"msg\":\"This Order not Returned\"}","service":"user-service","timestamp":"2023-01-09T12:22:43.472Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:31:30.669Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"Returned","timestamp":"2023-01-09T12:31:30.670Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:31:35.593Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:31:35.595Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:35:00.782Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:35:00.787Z"}
+{"level":"info","message":{"msg":"deliveryPartner is not defined"},"service":"user-service","timestamp":"2023-01-09T12:35:01.214Z"}
+{"level":"info","message":"{\"msg\":\"deliveryPartner is not defined\"}","service":"user-service","timestamp":"2023-01-09T12:35:01.216Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:35:18.495Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:35:18.496Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:35:27.726Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:35:27.727Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:47:16.592Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:47:16.592Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:47:20.937Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:47:20.940Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:49:25.180Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:49:25.185Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:49:29.244Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:49:29.246Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:51:26.669Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:51:26.673Z"}
+{"level":"info","message":{"msg":"OrderLog validation failed: orderId: Path `orderId` is required."},"service":"user-service","timestamp":"2023-01-09T12:51:27.042Z"}
+{"level":"info","message":"{\"msg\":\"OrderLog validation failed: orderId: Path `orderId` is required.\"}","service":"user-service","timestamp":"2023-01-09T12:51:27.044Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:52:17.006Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:52:17.009Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:52:22.480Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:52:22.483Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T12:55:00.380Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T12:55:00.381Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T12:55:05.219Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T12:55:05.221Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:05:44.571Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:05:44.578Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:05:50.866Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:05:50.868Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:07:39.774Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:07:39.778Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:07:44.939Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:07:44.940Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:08:08.464Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:08:08.465Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:08:12.885Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:08:12.887Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:09:18.188Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:09:18.195Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:09:22.721Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:09:22.722Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:10:26.148Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:10:26.152Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:10:30.472Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:10:30.477Z"}
+{"level":"info","message":"/api/v1/returnOrder/dispatchReturnOrder","service":"user-service","timestamp":"2023-01-09T13:11:12.708Z"}
+{"level":"info","message":"i reject this order ","orderId":"63a97b08865f0dbe795a8418","service":"user-service","status":"cancel","timestamp":"2023-01-09T13:11:12.712Z"}
+{"level":"info","message":{"msg":"Orders Status Successfully Updated"},"service":"user-service","timestamp":"2023-01-09T13:11:16.897Z"}
+{"level":"info","message":"{\"msg\":\"Orders Status Successfully Updated\"}","service":"user-service","timestamp":"2023-01-09T13:11:16.899Z"}

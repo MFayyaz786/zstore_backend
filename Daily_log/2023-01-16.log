@@ -1,0 +1,270 @@
+{"level":"info","message":"/","service":"user-service","timestamp":"2023-01-16T06:32:57.932Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:32:57.938Z"}
+{"level":"info","message":{"msg":"Welcome To Z-Store "},"service":"user-service","timestamp":"2023-01-16T06:32:57.944Z"}
+{"level":"info","message":"{\"msg\":\"Welcome To Z-Store \"}","service":"user-service","timestamp":"2023-01-16T06:32:57.946Z"}
+{"level":"info","message":"/favicon.ico","service":"user-service","timestamp":"2023-01-16T06:32:58.080Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:32:58.081Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:32:58.085Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:32:58.086Z"}
+{"level":"info","message":"/pament/payment/success","service":"user-service","timestamp":"2023-01-16T06:33:19.163Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:33:19.166Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:33:19.167Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:33:19.167Z"}
+{"level":"info","message":"/pament/payfast/success?","service":"user-service","timestamp":"2023-01-16T06:34:06.877Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:34:06.881Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:34:06.885Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:34:06.888Z"}
+{"level":"info","message":"/pament/payfast/success","service":"user-service","timestamp":"2023-01-16T06:34:13.582Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:34:13.583Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:34:13.587Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:34:13.588Z"}
+{"level":"info","message":"/pament/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T06:37:35.908Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:37:35.911Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:37:35.915Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:37:35.916Z"}
+{"level":"info","message":"/payment/payfast/success","service":"user-service","timestamp":"2023-01-16T06:37:52.755Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:37:52.756Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:37:52.760Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:37:52.760Z"}
+{"level":"info","message":"/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T06:37:58.213Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T06:37:58.215Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T06:37:58.216Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T06:37:58.216Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:29:07.271Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:29:07.272Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:29:07.274Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:29:07.275Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:29:49.564Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:29:49.565Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:29:49.565Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:29:49.566Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T09:30:49.640Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:30:49.641Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:30:49.641Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:30:49.641Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T09:31:46.604Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:31:46.605Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:31:46.605Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:31:46.605Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success","service":"user-service","timestamp":"2023-01-16T09:32:09.548Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:32:09.548Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:32:09.549Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:32:09.549Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success","service":"user-service","timestamp":"2023-01-16T09:32:36.365Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:32:36.367Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:32:36.369Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:32:36.369Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:32:42.282Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:32:42.282Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:32:42.287Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:32:42.288Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:34:01.904Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:34:01.908Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:34:01.910Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:34:01.910Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:34:36.716Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:34:36.718Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T09:35:09.177Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:35:09.177Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:35:09.181Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:35:09.182Z"}
+{"level":"info","message":"/api/v1/payfast/checkout?","service":"user-service","timestamp":"2023-01-16T09:41:49.134Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:41:49.134Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:41:49.135Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:41:49.136Z"}
+{"level":"info","message":"/api/v1/payment/payfast/checkout?","service":"user-service","timestamp":"2023-01-16T09:42:00.657Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:42:00.658Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:42:00.661Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:42:00.661Z"}
+{"level":"info","message":"/api/v1/payment/payfast/checkout?","service":"user-service","timestamp":"2023-01-16T09:42:38.001Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:42:38.001Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:42:38.002Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:42:38.003Z"}
+{"level":"info","message":"/api/v1/payment/payfast/checkout?","service":"user-service","timestamp":"2023-01-16T09:42:56.873Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:42:56.873Z"}
+{"level":"info","message":"/api/v1/payment/payfast/failure?","service":"user-service","timestamp":"2023-01-16T09:44:02.031Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:44:02.035Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:44:02.039Z"}
+{"level":"info","message":"{}","service":"user-service","timestamp":"2023-01-16T09:44:02.041Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T09:44:33.964Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:44:33.964Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:44:33.968Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:44:33.968Z"}
+{"level":"info","message":"/","service":"user-service","timestamp":"2023-01-16T09:45:01.243Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:45:01.244Z"}
+{"level":"info","message":{"msg":"Welcome To Z-Store "},"service":"user-service","timestamp":"2023-01-16T09:45:01.244Z"}
+{"level":"info","message":"{\"msg\":\"Welcome To Z-Store \"}","service":"user-service","timestamp":"2023-01-16T09:45:01.245Z"}
+{"level":"info","message":"/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:46:13.772Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:46:13.772Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T09:46:13.773Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T09:46:13.773Z"}
+{"level":"info","message":"/","service":"user-service","timestamp":"2023-01-16T09:47:35.839Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:47:35.839Z"}
+{"level":"info","message":{"msg":"Welcome To Z-Store "},"service":"user-service","timestamp":"2023-01-16T09:47:35.839Z"}
+{"level":"info","message":"{\"msg\":\"Welcome To Z-Store \"}","service":"user-service","timestamp":"2023-01-16T09:47:35.839Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:54:09.135Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:54:09.139Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T09:54:09.144Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T09:54:09.145Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T09:55:23.709Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T09:55:23.714Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:02:11.997Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:02:11.997Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:02:44.873Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:02:44.877Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:02:44.883Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:02:44.886Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:03:21.881Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:03:21.882Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:03:21.887Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:03:21.889Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:07:55.174Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:07:55.175Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:07:55.177Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:07:55.177Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:08:17.428Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:08:17.428Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:08:17.430Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:08:17.430Z"}
+{"level":"info","message":"/api/v1/payment/payfast/failure?","service":"user-service","timestamp":"2023-01-16T10:08:30.961Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:08:30.962Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:08:30.964Z"}
+{"level":"info","message":"{}","service":"user-service","timestamp":"2023-01-16T10:08:30.964Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:08:46.928Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:08:46.928Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:08:46.929Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:08:46.929Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:08:56.245Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:08:56.245Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:08:56.246Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:08:56.246Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:09:14.192Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:09:14.192Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:09:14.193Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:09:14.194Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=001&err_msg=Token%20could%20not%20be%20verified&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=A4811798D8EDB1C8668ED1ECDFD7C3C4&validation_hash=331f2f4c040f5e29fb438431af9fb2042d64d263d63016ee1b3bd0bc1bab9b6c&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:09:26.621Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:09:26.621Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:09:26.622Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:09:26.622Z"}
+{"level":"info","message":"/payment/payfast/failure?&err_code=30&err_msg=SUCCESS%20URL%20is%20required&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=6E74ACA808AE9F126D29E0748B67FB81&validation_hash=93ab1d158758570812de2c3029ef977df21ea5d0cef1c948b9c92c7de3213f81&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T10:10:21.327Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:10:21.328Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:10:21.328Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:10:21.329Z"}
+{"level":"info","message":"/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:15:37.110Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:15:37.115Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:15:37.119Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:15:37.121Z"}
+{"level":"info","message":"/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:16:59.336Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:16:59.337Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T10:16:59.341Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T10:16:59.342Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:17:16.004Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:17:16.005Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:17:16.008Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:17:16.009Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:17:44.801Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:17:44.802Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:17:44.805Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:17:44.806Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:18:25.398Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:18:25.399Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:18:25.403Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:18:25.403Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=c181e032-235e-ef38-f99e-38521d4ac180&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=4101C2E5-7CF6-4250-8151-1825821F292B&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:19:51.110Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:19:51.110Z"}
+{"level":"info","message":{"msg":"orderModel is not defined"},"service":"user-service","timestamp":"2023-01-16T10:19:51.122Z"}
+{"level":"info","message":"{\"msg\":\"orderModel is not defined\"}","service":"user-service","timestamp":"2023-01-16T10:19:51.122Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=6986218d-ecde-bd7f-2d0b-fcc431cc5899&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=C55DC473-EAB9-42ED-A787-2E208A5EE9B8&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:22:48.359Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:22:48.364Z"}
+{"level":"info","message":{"msg":"orderModel is not defined"},"service":"user-service","timestamp":"2023-01-16T10:22:48.379Z"}
+{"level":"info","message":"{\"msg\":\"orderModel is not defined\"}","service":"user-service","timestamp":"2023-01-16T10:22:48.380Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=bb168b80-99c7-3a07-9400-62f688c1fba0&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=E06318F0-DC8D-4BEF-85DB-125A3DDF9621&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:23:59.840Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:23:59.846Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?","service":"user-service","timestamp":"2023-01-16T10:32:13.811Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:32:13.811Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=309760e1-9e15-c22f-7b56-caca7a40c305&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=B5BC2AF7-B395-4330-A45A-2DE09C32C26F&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:34:36.311Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:34:36.316Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=309760e1-9e15-c22f-7b56-caca7a40c305&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=B5BC2AF7-B395-4330-A45A-2DE09C32C26F&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:42:13.974Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:42:13.981Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:42:13.987Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:42:13.988Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=6a0cada0-e4ae-0b78-a3e6-4f96ea8d23ea&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=054EE48F-53E0-43A2-99A9-E8C2B0BBFD63&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:43:52.948Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:43:52.949Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:43:52.955Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:43:52.956Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=8d1417c7-50ef-e0e0-62e2-53943921bcb1&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=7819566C-0D67-4B53-89A1-3EF44582E03A&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:46:34.399Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:46:34.404Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:46:34.611Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:46:34.613Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=1f5668c1-ba7c-e525-220e-c2bd2f333ccf&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=48C1B709-0941-473A-9F1D-A23BFDA91F26&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:53:00.893Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:53:00.895Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:53:01.058Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:53:01.059Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=d044b5c9-c697-5a48-6ff4-942733bdacb5&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=EB0845F7-A5B7-4C14-845E-46A2A085CADA&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T10:57:44.100Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T10:57:44.102Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T10:57:44.251Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T10:57:44.252Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=28a5a5db-edbc-6fb3-4a5c-355774cb2ad4&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=1CB3B7C5-2510-4602-90D9-E6ED34963B5F&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T11:00:19.534Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:00:19.536Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T11:00:19.705Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T11:00:19.708Z"}
+{"level":"info","message":"/api/v1/payment/payfast/failure?","service":"user-service","timestamp":"2023-01-16T11:02:48.148Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:02:48.149Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:02:48.151Z"}
+{"level":"info","message":"{}","service":"user-service","timestamp":"2023-01-16T11:02:48.151Z"}
+{"level":"info","message":"/api/v1/payment/payfast/failure?&err_code=30&err_msg=SUCCESS%20URL%20is%20required&transaction_id=&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=&Response_Key=6E74ACA808AE9F126D29E0748B67FB81&validation_hash=93ab1d158758570812de2c3029ef977df21ea5d0cef1c948b9c92c7de3213f81&transaction_amount=10","service":"user-service","timestamp":"2023-01-16T11:06:02.400Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:06:02.400Z"}
+{"level":"info","message":{"Rdv_Message_Key":"","Response_Key":"6E74ACA808AE9F126D29E0748B67FB81","basket_id":"61213139-ABCD123343451","err_code":"30","err_msg":"SUCCESS URL is required","order_date":"2023-01-23","transaction_amount":"10","transaction_id":"","validation_hash":"93ab1d158758570812de2c3029ef977df21ea5d0cef1c948b9c92c7de3213f81"},"service":"user-service","timestamp":"2023-01-16T11:06:02.404Z"}
+{"level":"info","message":"{\"err_code\":\"30\",\"err_msg\":\"SUCCESS URL is required\",\"transaction_id\":\"\",\"basket_id\":\"61213139-ABCD123343451\",\"order_date\":\"2023-01-23\",\"Rdv_Message_Key\":\"\",\"Response_Key\":\"6E74ACA808AE9F126D29E0748B67FB81\",\"validation_hash\":\"93ab1d158758570812de2c3029ef977df21ea5d0cef1c948b9c92c7de3213f81\",\"transaction_amount\":\"10\"}","service":"user-service","timestamp":"2023-01-16T11:06:02.405Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=c4daa49d-7ab3-67f3-eded-ab7327c5c623&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=A234DBD2-8FDD-4F83-A84C-E7AB4AE825FF&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T11:19:25.268Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:19:25.270Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T11:19:25.524Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T11:19:25.526Z"}
+{"level":"info","message":"/api/v1/payment/payfast/success?&err_code=000&err_msg=Success&transaction_id=5ef38a7a-86b9-1062-85fe-03d096eb217a&basket_id=61213139-ABCD123343451&order_date=2023-01-23&Rdv_Message_Key=88F4E8DE-F434-427C-9501-5F745C35874D&Response_Key=678F585A2CED384F882646A74952A706&PaymentType=3&PaymentName=Account&validation_hash=468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5&transaction_amount=10&merchant_amount=10&discounted_amount=&issuer_name=Demo%20Bank&transaction_currency=PKR&BillNumber=&CustomerId=","service":"user-service","timestamp":"2023-01-16T11:21:23.477Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:21:23.479Z"}
+{"level":"info","message":{"msg":"payment successfully"},"service":"user-service","timestamp":"2023-01-16T11:21:23.772Z"}
+{"level":"info","message":"{\"msg\":\"payment successfully\"}","service":"user-service","timestamp":"2023-01-16T11:21:23.776Z"}
+{"level":"info","message":"/api/v1/payment/payfast/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:51:29.316Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:51:29.319Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T11:51:29.322Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T11:51:29.322Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:51:41.690Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:51:41.690Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T11:51:41.694Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T11:51:41.695Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:52:12.738Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:52:12.739Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T11:52:12.739Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T11:52:12.739Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:52:33.559Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:52:33.560Z"}
+{"level":"info","message":{"msg":"Route Not found"},"service":"user-service","timestamp":"2023-01-16T11:52:33.561Z"}
+{"level":"info","message":"{\"msg\":\"Route Not found\"}","service":"user-service","timestamp":"2023-01-16T11:52:33.563Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:52:52.209Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:52:52.212Z"}
+{"level":"info","message":{"data":[],"msg":"Payment History"},"service":"user-service","timestamp":"2023-01-16T11:52:53.206Z"}
+{"level":"info","message":"{\"msg\":\"Payment History\",\"data\":[]}","service":"user-service","timestamp":"2023-01-16T11:52:53.207Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:53:31.853Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:53:31.855Z"}
+{"level":"info","message":{"data":[{"_id":"63c53333ae8fe26161c6dbb8","createdAt":"2023-01-16T11:21:23.634Z","method":"payfast"}],"msg":"Payment History"},"service":"user-service","timestamp":"2023-01-16T11:53:32.006Z"}
+{"level":"info","message":"{\"msg\":\"Payment History\",\"data\":[{\"_id\":\"63c53333ae8fe26161c6dbb8\",\"method\":\"payfast\",\"createdAt\":\"2023-01-16T11:21:23.634Z\"}]}","service":"user-service","timestamp":"2023-01-16T11:53:32.007Z"}
+{"level":"info","message":"/api/v1/payment/history?userId=63a2b0b8153cfe5f98a05aff","service":"user-service","timestamp":"2023-01-16T11:54:58.554Z"}
+{"level":"info","message":{},"service":"user-service","timestamp":"2023-01-16T11:54:58.556Z"}
+{"level":"info","message":{"data":[{"_id":"63c53333ae8fe26161c6dbb8","createdAt":"2023-01-16T11:21:23.634Z","method":"payfast","paymentDetails":{"BillNumber":"","CustomerId":"","PaymentName":"Account","PaymentType":"3","Rdv_Message_Key":"88F4E8DE-F434-427C-9501-5F745C35874D","Response_Key":"678F585A2CED384F882646A74952A706","basket_id":"61213139-ABCD123343451","discounted_amount":"","err_code":"000","err_msg":"Success","issuer_name":"Demo Bank","merchant_amount":"10","order_date":"2023-01-23","transaction_amount":"10","transaction_currency":"PKR","transaction_id":"5ef38a7a-86b9-1062-85fe-03d096eb217a","validation_hash":"468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5"}}],"msg":"Payment History"},"service":"user-service","timestamp":"2023-01-16T11:54:58.672Z"}
+{"level":"info","message":"{\"msg\":\"Payment History\",\"data\":[{\"_id\":\"63c53333ae8fe26161c6dbb8\",\"method\":\"payfast\",\"paymentDetails\":{\"err_code\":\"000\",\"err_msg\":\"Success\",\"transaction_id\":\"5ef38a7a-86b9-1062-85fe-03d096eb217a\",\"basket_id\":\"61213139-ABCD123343451\",\"order_date\":\"2023-01-23\",\"Rdv_Message_Key\":\"88F4E8DE-F434-427C-9501-5F745C35874D\",\"Response_Key\":\"678F585A2CED384F882646A74952A706\",\"PaymentType\":\"3\",\"PaymentName\":\"Account\",\"validation_hash\":\"468fcc21f35113d68575173bf2deca945840b3a0df5e901417372b198ee150c5\",\"transaction_amount\":\"10\",\"merchant_amount\":\"10\",\"discounted_amount\":\"\",\"issuer_name\":\"Demo Bank\",\"transaction_currency\":\"PKR\",\"BillNumber\":\"\",\"CustomerId\":\"\"},\"createdAt\":\"2023-01-16T11:21:23.634Z\"}]}","service":"user-service","timestamp":"2023-01-16T11:54:58.673Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-16T11:56:59.876Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-16T11:56:59.876Z"}
+{"level":"info","message":{"msg":"CNIC is already registered as a customer"},"service":"user-service","timestamp":"2023-01-16T11:57:04.058Z"}
+{"level":"info","message":"{\"msg\":\"CNIC is already registered as a customer\"}","service":"user-service","timestamp":"2023-01-16T11:57:04.059Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-16T11:57:09.737Z"}
+{"level":"info","message":{"otpPin":"","userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-16T11:57:09.737Z"}
+{"level":"info","message":{"msg":"APIGEE RRN Already Exists."},"service":"user-service","timestamp":"2023-01-16T11:57:12.075Z"}
+{"level":"info","message":"{\"msg\":\"APIGEE RRN Already Exists.\"}","service":"user-service","timestamp":"2023-01-16T11:57:12.076Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/linkAccount","service":"user-service","timestamp":"2023-01-16T11:58:37.059Z"}
+{"level":"info","message":{"otpPin":"","userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-16T11:58:37.063Z"}
+{"level":"info","message":{"msg":"OTP is Invalid"},"service":"user-service","timestamp":"2023-01-16T11:58:41.588Z"}
+{"level":"info","message":"{\"msg\":\"OTP is Invalid\"}","service":"user-service","timestamp":"2023-01-16T11:58:41.589Z"}
+{"level":"info","message":"/api/v1/zindigiWallet/varifyAcounTolink","service":"user-service","timestamp":"2023-01-16T12:19:26.033Z"}
+{"level":"info","message":{"userId":"63a2b0b8153cfe5f98a05aff"},"service":"user-service","timestamp":"2023-01-16T12:19:26.034Z"}
+{"level":"info","message":{"msg":"CNIC is already registered as a customer"},"service":"user-service","timestamp":"2023-01-16T12:19:29.865Z"}
+{"level":"info","message":"{\"msg\":\"CNIC is already registered as a customer\"}","service":"user-service","timestamp":"2023-01-16T12:19:29.866Z"}

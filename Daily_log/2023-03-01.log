@@ -1,0 +1,4 @@
+{"level":"info","message":"Docs available at http://localhost:3006/docs","service":"user-service","timestamp":"2023-03-01T12:11:29.301Z"}
+{"level":"info","message":"/api/v1/user/resetpassword/otp","service":"user-service","timestamp":"2023-03-01T12:17:35.528Z"}
+{"level":"info","message":{"email":"aliraza.hamd@gmail.com"},"service":"user-service","timestamp":"2023-03-01T12:17:35.529Z"}
+{"level":"info","message":"{\"msg\":\"OTP sent\"}","service":"user-service","timestamp":"2023-03-01T12:17:43.475Z"}
